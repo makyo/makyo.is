@@ -1,0 +1,69 @@
+graph is {
+    node[shape="box",style="filled",fillcolor="#222222",fontcolor="#ffffff",color="#ffffff",fontname="Helvetica bold"]
+    edge[len=2.2,color="#ffffff"]
+    graph[bgcolor="#222222",label=""]
+
+    copula [label="Madison Scott-Clary is...",fontcolor="#cc99ff",href="https://drab-makyo.com"]
+
+    writing [label="Writing..."]
+    writing_anything [label="Anything",fontcolor="#cc99ff",href="https://writing.drab-makyo.com"]
+    writing_ally [label="About herself",fontcolor="#cc99ff",href="https://ally.id"]
+    writing_portfolio [label="Her portfolio",fontcolor="#cc99ff",href="https://makyo.ink"]
+    copula -- writing
+    writing -- writing_anything
+    writing -- writing_ally
+    writing -- writing_portfolio
+
+    programming [label="Programming..."]
+    programming_github [label="On GitHub",fontcolor="#cc99ff",href="https://github.com/makyo"]
+    programming_launchpad [label="On Launchpad",fontcolor="#cc99ff",href="https://launchpad.net/~makyo"]
+    programming_personal [label="Her own stuff",fontcolor="#cc99ff",href="https://makyo.dev"]
+    copula -- programming
+    programming -- programming_github
+    programming -- programming_launchpad
+    programming -- programming_personal
+
+    cooking [label="Cooking..."]
+    cooking_quietly [label="Quietly",fontcolor="#cc99ff",href="https://makyo.cooking"]
+    cooking_loudly [label="Loudly",fontcolor="#cc99ff",href="https://mealtime.with.maddypa.ws"]
+    copula -- cooking
+    cooking -- cooking_quietly
+    cooking -- cooking_loudly
+
+    photography [label="Taking pictures..."]
+    photography_flickr [label="On Flickr",fontcolor="#cc99ff",href="https://flickr.com/photos/ranna"]
+    photography_portfolio [label="For her portfolio",fontcolor="#cc99ff",href="https://makyo.photography"]
+    copula -- photography
+    photography -- photography_portfolio
+    photography -- photography_flickr
+
+    composing [label="Composing..."]
+    composing_portfolio [label="For her portfolio",fontcolor="#cc99ff",href="https://sounds.drab-makyo.com"]
+    composing_bandcamp [label="On Bandcamp",fontcolor="#cc99ff",href="https://drab-makyo.bandcamp.com"]
+    composing_soundcloud [label="On Soundcloud",fontcolor="#cc99ff",href="https://soundcloud.com/drabmakyo"]
+    copula -- composing
+    composing -- composing_portfolio
+    composing -- composing_bandcamp
+    composing -- composing_soundcloud
+
+    talking [label="Talking..."]
+    talking_telegram [label="On Telegram",fontcolor="#cc99ff",href="https://t.me/DrabMakyo"]
+    talking_matrix [label="On Matrix",fontcolor="#cc99ff",href="https://matrix.to/#/@makyo:drab-makyo.com"]
+    copula -- talking
+    talking -- talking_telegram
+    talking -- talking_matrix
+
+    social [label="Being social..."]
+    social_twitter [label="On Twitter",fontcolor="#cc99ff",href="https://twitter.com/drab_makyo"]
+    social_mastodon [label="On Mastodon",fontcolor="#cc99ff",href="https://snouts.online/@makyo"]
+    copula -- social
+    social -- social_twitter
+    social -- social_mastodon
+
+    working [label="Working..."]
+    working_current [label="At Internet Archive",fontcolor="#cc99ff",href="https://archive.org"]
+    working_hybrid [label="At Hybrid Ink, LLC",fontcolor="#cc99ff",href="https://hybrid.ink"]
+    copula -- working
+    working -- working_current
+    working -- working_hybrid
+}
