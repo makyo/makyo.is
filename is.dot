@@ -1,7 +1,7 @@
 graph is {
     node[shape="box",style="filled",fillcolor="#222222",fontcolor="#ffffff",color="#ffffff",fontname="Helvetica bold"]
     edge[len=2.2,color="#ffffff"]
-    graph[bgcolor="#222222",label=""]
+    graph[bgcolor="#222222",label="",margin="0"]
 
     copula [label="Madison Scott-Clary is...",fontcolor="#cc99ff",href="https://drab-makyo.com"]
 
