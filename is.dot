@@ -1,7 +1,7 @@
 graph is {
     node[shape="box",style="filled",fillcolor="#222222",fontcolor="#ffffff",color="#ffffff",fontname="Helvetica bold"]
-    edge[len=2.2,color="#ffffff"]
-    graph[bgcolor="#222222",label="",margin="0"]
+    edge[color="#ffffff"]
+    graph[bgcolor="#222222",label="",margin="0",rankdir="LR",ranksep=2.5]
 
     copula [label="Madison Scott-Clary is...",fontcolor="#cc99ff",href="https://drab-makyo.com"]
 
@@ -13,6 +13,13 @@ graph is {
     writing -- writing_anything
     writing -- writing_ally
     writing -- writing_portfolio
+
+    photography [label="Taking pictures..."]
+    photography_flickr [label="On Flickr",fontcolor="#cc99ff",href="https://flickr.com/photos/ranna"]
+    photography_portfolio [label="For her portfolio",fontcolor="#cc99ff",href="https://makyo.photography"]
+    copula -- photography
+    photography -- photography_portfolio
+    photography -- photography_flickr
 
     programming [label="Programming..."]
     programming_github [label="On GitHub",fontcolor="#cc99ff",href="https://github.com/makyo"]
@@ -30,13 +37,6 @@ graph is {
     cooking -- cooking_quietly
     cooking -- cooking_loudly
 
-    photography [label="Taking pictures..."]
-    photography_flickr [label="On Flickr",fontcolor="#cc99ff",href="https://flickr.com/photos/ranna"]
-    photography_portfolio [label="For her portfolio",fontcolor="#cc99ff",href="https://makyo.photography"]
-    copula -- photography
-    photography -- photography_portfolio
-    photography -- photography_flickr
-
     composing [label="Composing..."]
     composing_portfolio [label="For her portfolio",fontcolor="#cc99ff",href="https://sounds.drab-makyo.com"]
     composing_bandcamp [label="On Bandcamp",fontcolor="#cc99ff",href="https://drab-makyo.bandcamp.com"]
@@ -47,9 +47,11 @@ graph is {
     composing -- composing_soundcloud
 
     talking [label="Talking..."]
+    talking_email [label="Over email",fontcolor="#cc99ff",href="mailto:makyo@drab-makyo.com"]
     talking_telegram [label="On Telegram",fontcolor="#cc99ff",href="https://t.me/DrabMakyo"]
     talking_matrix [label="On Matrix",fontcolor="#cc99ff",href="https://matrix.to/#/@makyo:drab-makyo.com"]
     copula -- talking
+    talking -- talking_email
     talking -- talking_telegram
     talking -- talking_matrix
 
