@@ -1,5 +1,5 @@
 graph is {
-    node[shape="box",style="filled",fillcolor="#222222",fontcolor="#ffffff",color="#ffffff",fontname="Helvetica bold"]
+    node[shape="none",fontcolor="#ffffff",color="#ffffff",fontname="Helvetica bold"]
     edge[color="#ffffff"]
     graph[bgcolor="#222222",label="",margin="0",rankdir="LR",ranksep=2.5]
 
