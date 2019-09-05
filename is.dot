@@ -8,7 +8,7 @@ graph is {
     writing [label="Writing..."]
     writing_anything [label="Anything",fontcolor="#cc99ff",href="https://writing.drab-makyo.com"]
     writing_ally [label="About herself",fontcolor="#cc99ff",href="https://ally.id"]
-    writing_portfolio [label="Her portfolio",fontcolor="#cc99ff",href="https://makyo.ink"]
+    writing_portfolio [label="For her portfolio",fontcolor="#cc99ff",href="https://makyo.ink"]
     copula -- writing
     writing -- writing_anything
     writing -- writing_ally
@@ -46,6 +46,13 @@ graph is {
     composing -- composing_bandcamp
     composing -- composing_soundcloud
 
+    social [label="Being social..."]
+    social_twitter [label="On Twitter",fontcolor="#cc99ff",href="https://twitter.com/drab_makyo"]
+    social_mastodon [label="On Mastodon",fontcolor="#cc99ff",href="https://snouts.online/@makyo"]
+    copula -- social
+    social -- social_twitter
+    social -- social_mastodon
+
     talking [label="Talking..."]
     talking_email [label="Over email",fontcolor="#cc99ff",href="mailto:makyo@drab-makyo.com"]
     talking_telegram [label="On Telegram",fontcolor="#cc99ff",href="https://t.me/DrabMakyo"]
@@ -54,13 +61,6 @@ graph is {
     talking -- talking_email
     talking -- talking_telegram
     talking -- talking_matrix
-
-    social [label="Being social..."]
-    social_twitter [label="On Twitter",fontcolor="#cc99ff",href="https://twitter.com/drab_makyo"]
-    social_mastodon [label="On Mastodon",fontcolor="#cc99ff",href="https://snouts.online/@makyo"]
-    copula -- social
-    social -- social_twitter
-    social -- social_mastodon
 
     working [label="Working..."]
     working_current [label="At Internet Archive",fontcolor="#cc99ff",href="https://archive.org"]

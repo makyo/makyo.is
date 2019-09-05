@@ -67,25 +67,25 @@
 <title>copula&#45;&#45;composing</title>
 <path fill="none" stroke="#ffffff" d="M380.974,-355.4319C354.3961,-341.8898 318.2349,-323.4647 291.6809,-309.9348"/>
 </g>
-<!-- talking -->
-<g id="node20" class="node">
-<title>talking</title>
-<text text-anchor="middle" x="388.4096" y="-192.0839" font-family="Helvetica bold" font-size="14.00" fill="#ffffff">Talking...</text>
-</g>
-<!-- copula&#45;&#45;talking -->
-<g id="edge19" class="edge">
-<title>copula&#45;&#45;talking</title>
-<path fill="none" stroke="#ffffff" d="M413.7129,-355.5426C408.3159,-321.4676 396.6748,-247.9685 391.2721,-213.8569"/>
-</g>
 <!-- social -->
-<g id="node24" class="node">
+<g id="node20" class="node">
 <title>social</title>
-<text text-anchor="middle" x="522.3691" y="-224.2447" font-family="Helvetica bold" font-size="14.00" fill="#ffffff">Being social...</text>
+<text text-anchor="middle" x="360.9447" y="-198.6776" font-family="Helvetica bold" font-size="14.00" fill="#ffffff">Being social...</text>
 </g>
 <!-- copula&#45;&#45;social -->
-<g id="edge23" class="edge">
+<g id="edge19" class="edge">
 <title>copula&#45;&#45;social</title>
-<path fill="none" stroke="#ffffff" d="M429.7537,-355.419C450.028,-327.5137 488.643,-274.3647 509.0171,-246.3223"/>
+<path fill="none" stroke="#ffffff" d="M410.6152,-355.2475C399.9093,-322.2982 377.5293,-253.4195 366.8546,-220.5663"/>
+</g>
+<!-- talking -->
+<g id="node23" class="node">
+<title>talking</title>
+<text text-anchor="middle" x="498.2861" y="-209.4866" font-family="Helvetica bold" font-size="14.00" fill="#ffffff">Talking...</text>
+</g>
+<!-- copula&#45;&#45;talking -->
+<g id="edge22" class="edge">
+<title>copula&#45;&#45;talking</title>
+<path fill="none" stroke="#ffffff" d="M425.7831,-355.4818C441.4777,-324.6794 473.2222,-262.3773 488.9791,-231.4526"/>
 </g>
 <!-- working -->
 <g id="node27" class="node">
@@ -126,8 +126,8 @@
 <!-- writing_portfolio -->
 <g id="node5" class="node">
 <title>writing_portfolio</title>
-<g id="a_node5"><a xlink:href="https://makyo.ink" xlink:title="Her portfolio">
-<text text-anchor="middle" x="671.1262" y="-624.4262" font-family="Helvetica bold" font-size="14.00" fill="#cc99ff">Her portfolio</text>
+<g id="a_node5"><a xlink:href="https://makyo.ink" xlink:title="For her portfolio">
+<text text-anchor="middle" x="671.1262" y="-624.4262" font-family="Helvetica bold" font-size="14.00" fill="#cc99ff">For her portfolio</text>
 </a>
 </g>
 </g>
@@ -266,70 +266,70 @@
 <title>composing&#45;&#45;composing_soundcloud</title>
 <path fill="none" stroke="#ffffff" d="M246.286,-273.6793C228.1985,-240.4839 190.0126,-170.4026 171.9186,-137.1955"/>
 </g>
-<!-- talking_email -->
-<g id="node21" class="node">
-<title>talking_email</title>
-<g id="a_node21"><a xlink:href="mailto:makyo@drab-makyo.com" xlink:title="Over email">
-<text text-anchor="middle" x="253.1312" y="-49.1055" font-family="Helvetica bold" font-size="14.00" fill="#cc99ff">Over email</text>
-</a>
-</g>
-</g>
-<!-- talking&#45;&#45;talking_email -->
-<g id="edge20" class="edge">
-<title>talking&#45;&#45;talking_email</title>
-<path fill="none" stroke="#ffffff" d="M371.2765,-177.6756C345.3973,-150.3233 296.6007,-98.7492 270.5525,-71.2184"/>
-</g>
-<!-- talking_telegram -->
-<g id="node22" class="node">
-<title>talking_telegram</title>
-<g id="a_node22"><a xlink:href="https://t.me/DrabMakyo" xlink:title="On Telegram">
-<text text-anchor="middle" x="360.2514" y="-14.3" font-family="Helvetica bold" font-size="14.00" fill="#cc99ff">On Telegram</text>
-</a>
-</g>
-</g>
-<!-- talking&#45;&#45;talking_telegram -->
-<g id="edge21" class="edge">
-<title>talking&#45;&#45;talking_telegram</title>
-<path fill="none" stroke="#ffffff" d="M385.5547,-177.7587C380.1577,-143.6837 368.5166,-70.1846 363.1139,-36.073"/>
-</g>
-<!-- talking_matrix -->
-<g id="node23" class="node">
-<title>talking_matrix</title>
-<g id="a_node23"><a xlink:href="https://matrix.to/#/@makyo:drab-makyo.com" xlink:title="On Matrix">
-<text text-anchor="middle" x="472.8842" y="-14.3" font-family="Helvetica bold" font-size="14.00" fill="#cc99ff">On Matrix</text>
-</a>
-</g>
-</g>
-<!-- talking&#45;&#45;talking_matrix -->
-<g id="edge22" class="edge">
-<title>talking&#45;&#45;talking_matrix</title>
-<path fill="none" stroke="#ffffff" d="M396.9744,-177.7587C413.1652,-143.6837 448.0885,-70.1846 464.2968,-36.073"/>
-</g>
 <!-- social_twitter -->
-<g id="node25" class="node">
+<g id="node21" class="node">
 <title>social_twitter</title>
-<g id="a_node25"><a xlink:href="https://twitter.com/drab_makyo" xlink:title="On Twitter">
-<text text-anchor="middle" x="580.0044" y="-49.1055" font-family="Helvetica bold" font-size="14.00" fill="#cc99ff">On Twitter</text>
+<g id="a_node21"><a xlink:href="https://twitter.com/drab_makyo" xlink:title="On Twitter">
+<text text-anchor="middle" x="253.1312" y="-49.1055" font-family="Helvetica bold" font-size="14.00" fill="#cc99ff">On Twitter</text>
 </a>
 </g>
 </g>
 <!-- social&#45;&#45;social_twitter -->
-<g id="edge24" class="edge">
+<g id="edge20" class="edge">
 <title>social&#45;&#45;social_twitter</title>
-<path fill="none" stroke="#ffffff" d="M528.32,-209.8614C539.3643,-176.3006 562.9146,-104.737 573.9995,-71.0528"/>
+<path fill="none" stroke="#ffffff" d="M347.9399,-184.3357C327.2177,-155.5873 286.9334,-99.7 266.1822,-70.9113"/>
 </g>
 <!-- social_mastodon -->
-<g id="node26" class="node">
+<g id="node22" class="node">
 <title>social_mastodon</title>
-<g id="a_node26"><a xlink:href="https://snouts.online/@makyo" xlink:title="On Mastodon">
-<text text-anchor="middle" x="671.1262" y="-115.3094" font-family="Helvetica bold" font-size="14.00" fill="#cc99ff">On Mastodon</text>
+<g id="a_node22"><a xlink:href="https://snouts.online/@makyo" xlink:title="On Mastodon">
+<text text-anchor="middle" x="360.2514" y="-14.3" font-family="Helvetica bold" font-size="14.00" fill="#cc99ff">On Mastodon</text>
 </a>
 </g>
 </g>
 <!-- social&#45;&#45;social_mastodon -->
-<g id="edge25" class="edge">
+<g id="edge21" class="edge">
 <title>social&#45;&#45;social_mastodon</title>
-<path fill="none" stroke="#ffffff" d="M547.2677,-209.7114C574.7275,-189.6026 618.6543,-157.4348 646.1464,-137.3022"/>
+<path fill="none" stroke="#ffffff" d="M360.877,-184.363C360.7444,-149.1143 360.4522,-71.3951 360.3194,-36.0877"/>
+</g>
+<!-- talking_email -->
+<g id="node24" class="node">
+<title>talking_email</title>
+<g id="a_node24"><a xlink:href="mailto:makyo@drab-makyo.com" xlink:title="Over email">
+<text text-anchor="middle" x="472.8842" y="-14.3" font-family="Helvetica bold" font-size="14.00" fill="#cc99ff">Over email</text>
+</a>
+</g>
+</g>
+<!-- talking&#45;&#45;talking_email -->
+<g id="edge23" class="edge">
+<title>talking&#45;&#45;talking_email</title>
+<path fill="none" stroke="#ffffff" d="M495.9419,-195.1738C491.115,-158.0843 480.1131,-73.5464 475.2597,-36.2531"/>
+</g>
+<!-- talking_telegram -->
+<g id="node25" class="node">
+<title>talking_telegram</title>
+<g id="a_node25"><a xlink:href="https://t.me/DrabMakyo" xlink:title="On Telegram">
+<text text-anchor="middle" x="580.0044" y="-49.1055" font-family="Helvetica bold" font-size="14.00" fill="#cc99ff">On Telegram</text>
+</a>
+</g>
+</g>
+<!-- talking&#45;&#45;talking_telegram -->
+<g id="edge24" class="edge">
+<title>talking&#45;&#45;talking_telegram</title>
+<path fill="none" stroke="#ffffff" d="M507.5014,-195.1006C523.196,-164.2982 554.9405,-101.9961 570.6974,-71.0714"/>
+</g>
+<!-- talking_matrix -->
+<g id="node26" class="node">
+<title>talking_matrix</title>
+<g id="a_node26"><a xlink:href="https://matrix.to/#/@makyo:drab-makyo.com" xlink:title="On Matrix">
+<text text-anchor="middle" x="671.1262" y="-115.3094" font-family="Helvetica bold" font-size="14.00" fill="#cc99ff">On Matrix</text>
+</a>
+</g>
+</g>
+<!-- talking&#45;&#45;talking_matrix -->
+<g id="edge25" class="edge">
+<title>talking&#45;&#45;talking_matrix</title>
+<path fill="none" stroke="#ffffff" d="M531.6114,-195.0283C562.2175,-178.3516 607.3295,-153.771 637.9032,-137.1119"/>
 </g>
 <!-- working_current -->
 <g id="node28" class="node">
