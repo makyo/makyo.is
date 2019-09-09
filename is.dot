@@ -56,10 +56,12 @@ graph is {
     talking [label="Talking..."]
     talking_email [label="Over email",fontcolor="#cc99ff",href="mailto:makyo@drab-makyo.com"]
     talking_telegram [label="On Telegram",fontcolor="#cc99ff",href="https://t.me/DrabMakyo"]
+    talking_discord [label="On Discord",fontcolor="#cc99ff",href="/discord",title="Makyo#7093"]
     talking_matrix [label="On Matrix",fontcolor="#cc99ff",href="https://matrix.to/#/@makyo:drab-makyo.com"]
     copula -- talking
     talking -- talking_email
     talking -- talking_telegram
+    talking -- talking_discord
     talking -- talking_matrix
 
     working [label="Working..."]
