@@ -1,0 +1,143 @@
+{
+  "name": "Madison Scott-Clary is...",
+  "href": "https://drab-makyo.com",
+  "children": [
+    {
+      "name": "A...",
+      "children": [
+        {
+          "name": "Furry",
+          "href": "https://ally.id/furry/"
+        },
+        {
+          "name": "Trans woman",
+          "href": "https://drab-makyo.com/changes/"
+        }
+      ]
+    },
+    {
+      "name": "Writing...",
+      "children": [
+        {
+          "name": "Anything",
+          "href": "https://writing.drab-makyo.com"
+        },
+        {
+          "name": "About herself",
+          "href": "https://ally.id"
+        },
+        {
+          "name": "For her portfolio",
+          "href": "https://makyo.ink"
+        }
+      ]
+    },
+    {
+      "name": "Taking pictures...",
+      "children": [
+        {
+          "name": "On Flickr",
+          "href": "https://flickr.com/photos/ranna"
+        },
+        {
+          "name": "For her portfolio",
+          "href": "https://makyo.photography"
+        }
+      ]
+    },
+    {
+      "name": "Programming...",
+      "children": [
+        {
+          "name": "On GitHub",
+          "href": "https://github.com/makyo"
+        },
+        {
+          "name": "On Launchpad",
+          "href": "https://launchpad.net/~makyo"
+        },
+        {
+          "name": "Her own stuff",
+          "href": "https://makyo.dev"
+        }
+      ]
+    },
+    {
+      "name": "Cooking...",
+      "children": [
+        {
+          "name": "Quietly",
+          "href": "https://makyo.cooking"
+        },
+        {
+          "name": "Loudly",
+          "href": "https://mealtime.with.maddypa.ws"
+        }
+      ]
+    },
+    {
+      "name": "Composing...",
+      "children": [
+        {
+          "name": "For her portfolio",
+          "href": "https://sounds.drab-makyo.com"
+        },
+        {
+          "name": "On Bandcamp",
+          "href": "https://drab-makyo.bandcamp.com"
+        },
+        {
+          "name": "On Soundcloud",
+          "href": "https://soundcloud.com/drabmakyo"
+        }
+      ]
+    },
+    {
+      "name": "Being social...",
+      "children": [
+        {
+          "name": "On Twitter",
+          "href": "https://twitter.com/drab_makyo"
+        },
+        {
+          "name": "On Mastodon",
+          "href": "https://snouts.online/@makyo"
+        }
+      ]
+    },
+    {
+      "name": "Talking...",
+      "children": [
+        {
+          "name": "Over email",
+          "href": "mailto:makyo@drab-makyo.com"
+        },
+        {
+          "name": "On Telegram",
+          "href": "https://t.me/DrabMakyo"
+        },
+        {
+          "name": "On Discord",
+          "href": "/discord"
+        },
+        {
+          "name": "On Matrix",
+          "href": "https://matrix.to/#/@makyo:drab-makyo.com"
+        }
+      ]
+    },
+    {
+      "name": "Working...",
+      "children": [
+        {
+          "name": "At Internet Archive",
+          "href": "https://archive.org"
+        },
+        {
+          "name": "At Hybrid Ink, LLC",
+          "href": "https://hybrid.ink"
+        }
+      ]
+    }
+  ]
+}

@@ -1,9 +1,14 @@
 graph is {
     node[shape="none",fontcolor="#ffffff",color="#ffffff",fontname="Helvetica bold"]
     edge[color="#ffffff"]
-    graph[bgcolor="#222222",label="",margin="0",rankdir="LR",ranksep=2.5]
+    graph[bgcolor="#222222",label="",margin="0",rankdir="LR",ranksep=2.8]
 
     copula [label="Madison Scott-Clary is...",fontcolor="#cc99ff",href="https://drab-makyo.com"]
+
+    a [label="A..."]
+    a_furry [label="Furry",fontcolor="#cc99ff",href="https://ally.id/furry/"]
+    a_transwoman [label="Trans woman",fontcolor="#cc99ff",href="https://drab-makyo.com/changes/"]
+    copula -- a -- {a_furry, a_transwoman}
 
     writing [label="Writing..."]
     writing_anything [label="Anything",fontcolor="#cc99ff",href="https://writing.drab-makyo.com"]
