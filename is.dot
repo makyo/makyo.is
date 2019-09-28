@@ -3,12 +3,12 @@ graph is {
     edge[color="#ffffff"]
     graph[bgcolor="#222222",label="",margin="0",rankdir="LR",ranksep=2.5]
 
-    copula [label="Madison Scott-Clary is...",fontcolor="#cc99ff",href="https://drab-makyo.com"]
+    copula [label="Madison Scott-Clary is...",fontcolor="#cc99ff",href="https://drab-makyo.com?pk_campaign=source&pk_kwd=makyo.is"]
 
     writing [label="Writing..."]
-    writing_anything [label="Anything",fontcolor="#cc99ff",href="https://writing.drab-makyo.com"]
-    writing_ally [label="About herself",fontcolor="#cc99ff",href="https://ally.id"]
-    writing_portfolio [label="For her portfolio",fontcolor="#cc99ff",href="https://makyo.ink"]
+    writing_anything [label="Anything",fontcolor="#cc99ff",href="https://writing.drab-makyo.com?pk_campaign=source&pk_kwd=makyo.is"]
+    writing_ally [label="About herself",fontcolor="#cc99ff",href="https://ally.id?pk_campaign=source&pk_kwd=makyo.is"]
+    writing_portfolio [label="For her portfolio",fontcolor="#cc99ff",href="https://makyo.ink?pk_campaign=source&pk_kwd=makyo.is"]
     copula -- writing
     writing -- writing_anything
     writing -- writing_ally
@@ -31,14 +31,14 @@ graph is {
     programming -- programming_personal
 
     cooking [label="Cooking..."]
-    cooking_quietly [label="Quietly",fontcolor="#cc99ff",href="https://makyo.cooking"]
-    cooking_loudly [label="Loudly",fontcolor="#cc99ff",href="https://mealtime.with.maddypa.ws"]
+    cooking_quietly [label="Quietly",fontcolor="#cc99ff",href="https://makyo.cooking?pk_campaign=source&pk_kwd=makyo.is"]
+    cooking_loudly [label="Loudly",fontcolor="#cc99ff",href="https://mealtime.with.maddypa.ws?pk_campaign=source&pk_kwd=makyo.is"]
     copula -- cooking
     cooking -- cooking_quietly
     cooking -- cooking_loudly
 
     composing [label="Composing..."]
-    composing_portfolio [label="For her portfolio",fontcolor="#cc99ff",href="https://sounds.drab-makyo.com"]
+    composing_portfolio [label="For her portfolio",fontcolor="#cc99ff",href="https://sounds.drab-makyo.com?pk_campaign=source&pk_kwd=makyo.is"]
     composing_bandcamp [label="On Bandcamp",fontcolor="#cc99ff",href="https://drab-makyo.bandcamp.com"]
     composing_soundcloud [label="On Soundcloud",fontcolor="#cc99ff",href="https://soundcloud.com/drabmakyo"]
     copula -- composing
@@ -66,7 +66,7 @@ graph is {
 
     working [label="Working..."]
     working_current [label="At New Vector",fontcolor="#cc99ff",href="https://vector.im"]
-    working_hybrid [label="At Hybrid Ink, LLC",fontcolor="#cc99ff",href="https://hybrid.ink"]
+    working_hybrid [label="At Hybrid Ink, LLC",fontcolor="#cc99ff",href="https://hybrid.ink?pk_campaign=source&pk_kwd=makyo.is"]
     copula -- working
     working -- working_current
     working -- working_hybrid
