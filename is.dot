@@ -9,65 +9,50 @@ graph is {
     writing_anything [label="Anything",fontcolor="#cc99ff",href="https://writing.drab-makyo.com?pk_campaign=source&pk_kwd=makyo.is"]
     writing_ally [label="About herself",fontcolor="#cc99ff",href="https://ally.id?pk_campaign=source&pk_kwd=makyo.is"]
     writing_portfolio [label="For her portfolio",fontcolor="#cc99ff",href="https://makyo.ink?pk_campaign=source&pk_kwd=makyo.is"]
-    copula -- writing
-    writing -- writing_anything
-    writing -- writing_ally
-    writing -- writing_portfolio
+    copula -- writing -- { writing_anything, writing_ally, writing_portfolio }
 
     photography [label="Taking pictures..."]
     photography_flickr [label="On Flickr",fontcolor="#cc99ff",href="https://flickr.com/photos/ranna"]
     photography_portfolio [label="For her portfolio",fontcolor="#cc99ff",href="https://makyo.photography"]
-    copula -- photography
-    photography -- photography_portfolio
-    photography -- photography_flickr
+    copula -- photography -- { photography_flickr, photography_portfolio }
 
     programming [label="Programming..."]
     programming_github [label="On GitHub",fontcolor="#cc99ff",href="https://github.com/makyo"]
     programming_launchpad [label="On Launchpad",fontcolor="#cc99ff",href="https://launchpad.net/~makyo"]
     programming_personal [label="Her own stuff",fontcolor="#cc99ff",href="https://makyo.dev"]
-    copula -- programming
-    programming -- programming_github
-    programming -- programming_launchpad
-    programming -- programming_personal
+    copula -- programming -- { programming_github, programming_launchpad, programming_personal }
 
     cooking [label="Cooking..."]
     cooking_quietly [label="Quietly",fontcolor="#cc99ff",href="https://makyo.cooking?pk_campaign=source&pk_kwd=makyo.is"]
     cooking_loudly [label="Loudly",fontcolor="#cc99ff",href="https://mealtime.with.maddypa.ws?pk_campaign=source&pk_kwd=makyo.is"]
-    copula -- cooking
-    cooking -- cooking_quietly
-    cooking -- cooking_loudly
+    copula -- cooking -- { cooking_quietly, cooking_loudly }
 
     composing [label="Composing..."]
     composing_portfolio [label="For her portfolio",fontcolor="#cc99ff",href="https://sounds.drab-makyo.com?pk_campaign=source&pk_kwd=makyo.is"]
     composing_bandcamp [label="On Bandcamp",fontcolor="#cc99ff",href="https://drab-makyo.bandcamp.com"]
     composing_soundcloud [label="On Soundcloud",fontcolor="#cc99ff",href="https://soundcloud.com/drabmakyo"]
-    copula -- composing
-    composing -- composing_portfolio
-    composing -- composing_bandcamp
-    composing -- composing_soundcloud
+    copula -- composing -- { composing_portfolio, composing_bandcamp, composing_soundcloud }
 
     social [label="Being social..."]
     social_twitter [label="On Twitter",fontcolor="#cc99ff",href="https://twitter.com/drab_makyo"]
     social_mastodon [label="On Mastodon",fontcolor="#cc99ff",href="https://snouts.online/@makyo"]
-    copula -- social
-    social -- social_twitter
-    social -- social_mastodon
+    copula -- social -- { social_twitter, social_mastodon }
 
     talking [label="Talking..."]
     talking_email [label="Over email",fontcolor="#cc99ff",href="mailto:makyo@drab-makyo.com"]
     talking_telegram [label="On Telegram",fontcolor="#cc99ff",href="https://t.me/DrabMakyo"]
     talking_discord [label="On Discord",fontcolor="#cc99ff",href="/discord",title="Makyo#7093"]
     talking_matrix [label="On Matrix",fontcolor="#cc99ff",href="https://matrix.to/#/@makyo:drab-makyo.com"]
-    copula -- talking
-    talking -- talking_email
-    talking -- talking_telegram
-    talking -- talking_discord
-    talking -- talking_matrix
+    talking_wire [label="On Wire",fontcolor="#cc99ff",href="/wire",title="@makyo"]
+    copula -- talking -- { talking_email, talking_telegram, talking_discord, talking_matrix, talking_wire }
 
     working [label="Working..."]
     working_current [label="At New Vector",fontcolor="#cc99ff",href="https://vector.im"]
     working_hybrid [label="At Hybrid Ink, LLC",fontcolor="#cc99ff",href="https://hybrid.ink?pk_campaign=source&pk_kwd=makyo.is"]
-    copula -- working
-    working -- working_current
-    working -- working_hybrid
+    copula -- working -- { working_current, working_hybrid }
+
+    secure [label="Secure..."]
+    secure_keybase [label="On Keybase",fontcolor="#cc99ff",href="https://keybase.io/makyo"]
+    secure_everywhere [label="Everywhere",fontcolor="#cc99ff",href="https://drab-makyo.com/pgp"]
+    copula -- secure -- { secure_everywhere, secure_keybase }
 }

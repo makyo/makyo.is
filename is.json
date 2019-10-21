@@ -1,0 +1,1884 @@
+{
+  "name": "is",
+  "directed": false,
+  "strict": false,
+  "_draw_": 
+  [
+    {
+      "op": "c",
+      "grad": "none",
+      "color": "#fffffe00"
+    },
+    {
+      "op": "C",
+      "grad": "none",
+      "color": "#222222"
+    },
+    {
+      "op": "P",
+      "points": [[0.000,0.000],[0.000,749.840],[819.340,749.840],[819.340,0.000]]
+    }
+  ],
+  "bb": "0,0,819.34,749.84",
+  "bgcolor": "#222222",
+  "label": "",
+  "margin": "0",
+  "rankdir": "LR",
+  "ranksep": "2.5",
+  "xdotversion": "1.7",
+  "_subgraph_cnt": 9,
+  "objects": [
+    {
+      "name": "%3",
+      "bgcolor": "#222222",
+      "label": "",
+      "margin": "0",
+      "rankdir": "LR",
+      "ranksep": "2.5",
+      "_gvid": 0,
+      "nodes": [
+        11,12,13
+      ]
+    },
+    {
+      "name": "%13",
+      "bgcolor": "#222222",
+      "label": "",
+      "margin": "0",
+      "rankdir": "LR",
+      "ranksep": "2.5",
+      "_gvid": 1,
+      "nodes": [
+        15,16
+      ]
+    },
+    {
+      "name": "%21",
+      "bgcolor": "#222222",
+      "label": "",
+      "margin": "0",
+      "rankdir": "LR",
+      "ranksep": "2.5",
+      "_gvid": 2,
+      "nodes": [
+        18,19,20
+      ]
+    },
+    {
+      "name": "%31",
+      "bgcolor": "#222222",
+      "label": "",
+      "margin": "0",
+      "rankdir": "LR",
+      "ranksep": "2.5",
+      "_gvid": 3,
+      "nodes": [
+        22,23
+      ]
+    },
+    {
+      "name": "%39",
+      "bgcolor": "#222222",
+      "label": "",
+      "margin": "0",
+      "rankdir": "LR",
+      "ranksep": "2.5",
+      "_gvid": 4,
+      "nodes": [
+        25,26,27
+      ]
+    },
+    {
+      "name": "%49",
+      "bgcolor": "#222222",
+      "label": "",
+      "margin": "0",
+      "rankdir": "LR",
+      "ranksep": "2.5",
+      "_gvid": 5,
+      "nodes": [
+        29,30
+      ]
+    },
+    {
+      "name": "%57",
+      "bgcolor": "#222222",
+      "label": "",
+      "margin": "0",
+      "rankdir": "LR",
+      "ranksep": "2.5",
+      "_gvid": 6,
+      "nodes": [
+        32,33,34,35,36
+      ]
+    },
+    {
+      "name": "%71",
+      "bgcolor": "#222222",
+      "label": "",
+      "margin": "0",
+      "rankdir": "LR",
+      "ranksep": "2.5",
+      "_gvid": 7,
+      "nodes": [
+        38,39
+      ]
+    },
+    {
+      "name": "%79",
+      "bgcolor": "#222222",
+      "label": "",
+      "margin": "0",
+      "rankdir": "LR",
+      "ranksep": "2.5",
+      "_gvid": 8,
+      "nodes": [
+        41,42
+      ]
+    },
+    {
+      "_gvid": 9,
+      "name": "copula",
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Helvetica bold"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#cc99ff"
+        },
+        {
+          "op": "T",
+          "pt": [415.920,371.220],
+          "align": "c",
+          "width": 158.000,
+          "text": "Madison Scott-Clary is..."
+        }
+      ],
+      "color": "#ffffff",
+      "fontcolor": "#cc99ff",
+      "fontname": "Helvetica bold",
+      "height": "0.5",
+      "href": "https:\/\/drab-makyo.com?pk_campaign=source&pk_kwd=makyo.is",
+      "label": "Madison Scott-Clary is...",
+      "pos": "415.92,374.92",
+      "shape": "none",
+      "width": "2.4167"
+    },
+    {
+      "_gvid": 10,
+      "name": "writing",
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Helvetica bold"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#ffffff"
+        },
+        {
+          "op": "T",
+          "pt": [582.220,440.100],
+          "align": "c",
+          "width": 59.000,
+          "text": "Writing..."
+        }
+      ],
+      "color": "#ffffff",
+      "fontcolor": "#ffffff",
+      "fontname": "Helvetica bold",
+      "height": "0.5",
+      "label": "Writing...",
+      "pos": "582.22,443.8",
+      "shape": "none",
+      "width": "1.0417"
+    },
+    {
+      "_gvid": 11,
+      "name": "writing_anything",
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Helvetica bold"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#cc99ff"
+        },
+        {
+          "op": "T",
+          "pt": [772.840,418.210],
+          "align": "c",
+          "width": 59.000,
+          "text": "Anything"
+        }
+      ],
+      "color": "#ffffff",
+      "fontcolor": "#cc99ff",
+      "fontname": "Helvetica bold",
+      "height": "0.5",
+      "href": "https:\/\/writing.drab-makyo.com?pk_campaign=source&pk_kwd=makyo.is",
+      "label": "Anything",
+      "pos": "772.84,421.91",
+      "shape": "none",
+      "width": "1.0417"
+    },
+    {
+      "_gvid": 12,
+      "name": "writing_ally",
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Helvetica bold"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#cc99ff"
+        },
+        {
+          "op": "T",
+          "pt": [748.520,508.990],
+          "align": "c",
+          "width": 88.000,
+          "text": "About herself"
+        }
+      ],
+      "color": "#ffffff",
+      "fontcolor": "#cc99ff",
+      "fontname": "Helvetica bold",
+      "height": "0.5",
+      "href": "https:\/\/ally.id?pk_campaign=source&pk_kwd=makyo.is",
+      "label": "About herself",
+      "pos": "748.52,512.69",
+      "shape": "none",
+      "width": "1.4444"
+    },
+    {
+      "_gvid": 13,
+      "name": "writing_portfolio",
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Helvetica bold"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#cc99ff"
+        },
+        {
+          "op": "T",
+          "pt": [701.530,590.370],
+          "align": "c",
+          "width": 106.000,
+          "text": "For her portfolio"
+        }
+      ],
+      "color": "#ffffff",
+      "fontcolor": "#cc99ff",
+      "fontname": "Helvetica bold",
+      "height": "0.5",
+      "href": "https:\/\/makyo.ink?pk_campaign=source&pk_kwd=makyo.is",
+      "label": "For her portfolio",
+      "pos": "701.53,594.07",
+      "shape": "none",
+      "width": "1.6944"
+    },
+    {
+      "_gvid": 14,
+      "name": "photography",
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Helvetica bold"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#ffffff"
+        },
+        {
+          "op": "T",
+          "pt": [505.920,527.100],
+          "align": "c",
+          "width": 111.000,
+          "text": "Taking pictures..."
+        }
+      ],
+      "color": "#ffffff",
+      "fontcolor": "#ffffff",
+      "fontname": "Helvetica bold",
+      "height": "0.5",
+      "label": "Taking pictures...",
+      "pos": "505.92,530.8",
+      "shape": "none",
+      "width": "1.7639"
+    },
+    {
+      "_gvid": 15,
+      "name": "photography_flickr",
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Helvetica bold"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#cc99ff"
+        },
+        {
+          "op": "T",
+          "pt": [635.070,656.830],
+          "align": "c",
+          "width": 60.000,
+          "text": "On Flickr"
+        }
+      ],
+      "color": "#ffffff",
+      "fontcolor": "#cc99ff",
+      "fontname": "Helvetica bold",
+      "height": "0.5",
+      "href": "https:\/\/flickr.com\/photos\/ranna",
+      "label": "On Flickr",
+      "pos": "635.07,660.53",
+      "shape": "none",
+      "width": "1.0556"
+    },
+    {
+      "_gvid": 16,
+      "name": "photography_portfolio",
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Helvetica bold"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#cc99ff"
+        },
+        {
+          "op": "T",
+          "pt": [553.690,703.820],
+          "align": "c",
+          "width": 106.000,
+          "text": "For her portfolio"
+        }
+      ],
+      "color": "#ffffff",
+      "fontcolor": "#cc99ff",
+      "fontname": "Helvetica bold",
+      "height": "0.5",
+      "href": "https:\/\/makyo.photography",
+      "label": "For her portfolio",
+      "pos": "553.69,707.52",
+      "shape": "none",
+      "width": "1.6944"
+    },
+    {
+      "_gvid": 17,
+      "name": "programming",
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Helvetica bold"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#ffffff"
+        },
+        {
+          "op": "T",
+          "pt": [392.430,549.680],
+          "align": "c",
+          "width": 101.000,
+          "text": "Programming..."
+        }
+      ],
+      "color": "#ffffff",
+      "fontcolor": "#ffffff",
+      "fontname": "Helvetica bold",
+      "height": "0.5",
+      "label": "Programming...",
+      "pos": "392.43,553.38",
+      "shape": "none",
+      "width": "1.625"
+    },
+    {
+      "_gvid": 18,
+      "name": "programming_github",
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Helvetica bold"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#cc99ff"
+        },
+        {
+          "op": "T",
+          "pt": [462.910,728.140],
+          "align": "c",
+          "width": 70.000,
+          "text": "On GitHub"
+        }
+      ],
+      "color": "#ffffff",
+      "fontcolor": "#cc99ff",
+      "fontname": "Helvetica bold",
+      "height": "0.5",
+      "href": "https:\/\/github.com\/makyo",
+      "label": "On GitHub",
+      "pos": "462.91,731.84",
+      "shape": "none",
+      "width": "1.1944"
+    },
+    {
+      "_gvid": 19,
+      "name": "programming_launchpad",
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Helvetica bold"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#cc99ff"
+        },
+        {
+          "op": "T",
+          "pt": [368.930,728.140],
+          "align": "c",
+          "width": 96.000,
+          "text": "On Launchpad"
+        }
+      ],
+      "color": "#ffffff",
+      "fontcolor": "#cc99ff",
+      "fontname": "Helvetica bold",
+      "height": "0.5",
+      "href": "https:\/\/launchpad.net\/~makyo",
+      "label": "On Launchpad",
+      "pos": "368.93,731.84",
+      "shape": "none",
+      "width": "1.5556"
+    },
+    {
+      "_gvid": 20,
+      "name": "programming_personal",
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Helvetica bold"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#cc99ff"
+        },
+        {
+          "op": "T",
+          "pt": [278.150,703.820],
+          "align": "c",
+          "width": 88.000,
+          "text": "Her own stuff"
+        }
+      ],
+      "color": "#ffffff",
+      "fontcolor": "#cc99ff",
+      "fontname": "Helvetica bold",
+      "height": "0.5",
+      "href": "https:\/\/makyo.dev",
+      "label": "Her own stuff",
+      "pos": "278.15,707.52",
+      "shape": "none",
+      "width": "1.4444"
+    },
+    {
+      "_gvid": 21,
+      "name": "cooking",
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Helvetica bold"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#ffffff"
+        },
+        {
+          "op": "T",
+          "pt": [288.640,498.500],
+          "align": "c",
+          "width": 66.000,
+          "text": "Cooking..."
+        }
+      ],
+      "color": "#ffffff",
+      "fontcolor": "#ffffff",
+      "fontname": "Helvetica bold",
+      "height": "0.5",
+      "label": "Cooking...",
+      "pos": "288.64,502.2",
+      "shape": "none",
+      "width": "1.1389"
+    },
+    {
+      "_gvid": 22,
+      "name": "cooking_quietly",
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Helvetica bold"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#cc99ff"
+        },
+        {
+          "op": "T",
+          "pt": [196.770,656.830],
+          "align": "c",
+          "width": 47.000,
+          "text": "Quietly"
+        }
+      ],
+      "color": "#ffffff",
+      "fontcolor": "#cc99ff",
+      "fontname": "Helvetica bold",
+      "height": "0.5",
+      "href": "https:\/\/makyo.cooking?pk_campaign=source&pk_kwd=makyo.is",
+      "label": "Quietly",
+      "pos": "196.77,660.53",
+      "shape": "none",
+      "width": "0.875"
+    },
+    {
+      "_gvid": 23,
+      "name": "cooking_loudly",
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Helvetica bold"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#cc99ff"
+        },
+        {
+          "op": "T",
+          "pt": [130.310,590.370],
+          "align": "c",
+          "width": 45.000,
+          "text": "Loudly"
+        }
+      ],
+      "color": "#ffffff",
+      "fontcolor": "#cc99ff",
+      "fontname": "Helvetica bold",
+      "height": "0.5",
+      "href": "https:\/\/mealtime.with.maddypa.ws?pk_campaign=source&pk_kwd=makyo.is",
+      "label": "Loudly",
+      "pos": "130.31,594.07",
+      "shape": "none",
+      "width": "0.84722"
+    },
+    {
+      "_gvid": 24,
+      "name": "composing",
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Helvetica bold"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#ffffff"
+        },
+        {
+          "op": "T",
+          "pt": [237.460,394.710],
+          "align": "c",
+          "width": 87.000,
+          "text": "Composing..."
+        }
+      ],
+      "color": "#ffffff",
+      "fontcolor": "#ffffff",
+      "fontname": "Helvetica bold",
+      "height": "0.5",
+      "label": "Composing...",
+      "pos": "237.46,398.41",
+      "shape": "none",
+      "width": "1.4306"
+    },
+    {
+      "_gvid": 25,
+      "name": "composing_portfolio",
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Helvetica bold"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#cc99ff"
+        },
+        {
+          "op": "T",
+          "pt": [83.320,508.990],
+          "align": "c",
+          "width": 106.000,
+          "text": "For her portfolio"
+        }
+      ],
+      "color": "#ffffff",
+      "fontcolor": "#cc99ff",
+      "fontname": "Helvetica bold",
+      "height": "0.5",
+      "href": "https:\/\/sounds.drab-makyo.com?pk_campaign=source&pk_kwd=makyo.is",
+      "label": "For her portfolio",
+      "pos": "83.324,512.69",
+      "shape": "none",
+      "width": "1.6944"
+    },
+    {
+      "_gvid": 26,
+      "name": "composing_bandcamp",
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Helvetica bold"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#cc99ff"
+        },
+        {
+          "op": "T",
+          "pt": [59.000,418.210],
+          "align": "c",
+          "width": 94.000,
+          "text": "On Bandcamp"
+        }
+      ],
+      "color": "#ffffff",
+      "fontcolor": "#cc99ff",
+      "fontname": "Helvetica bold",
+      "height": "0.5",
+      "href": "https:\/\/drab-makyo.bandcamp.com",
+      "label": "On Bandcamp",
+      "pos": "59,421.91",
+      "shape": "none",
+      "width": "1.5278"
+    },
+    {
+      "_gvid": 27,
+      "name": "composing_soundcloud",
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Helvetica bold"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#cc99ff"
+        },
+        {
+          "op": "T",
+          "pt": [59.000,324.230],
+          "align": "c",
+          "width": 102.000,
+          "text": "On Soundcloud"
+        }
+      ],
+      "color": "#ffffff",
+      "fontcolor": "#cc99ff",
+      "fontname": "Helvetica bold",
+      "height": "0.5",
+      "href": "https:\/\/soundcloud.com\/drabmakyo",
+      "label": "On Soundcloud",
+      "pos": "59,327.93",
+      "shape": "none",
+      "width": "1.6389"
+    },
+    {
+      "_gvid": 28,
+      "name": "social",
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Helvetica bold"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#ffffff"
+        },
+        {
+          "op": "T",
+          "pt": [260.040,281.220],
+          "align": "c",
+          "width": 91.000,
+          "text": "Being social..."
+        }
+      ],
+      "color": "#ffffff",
+      "fontcolor": "#ffffff",
+      "fontname": "Helvetica bold",
+      "height": "0.5",
+      "label": "Being social...",
+      "pos": "260.04,284.92",
+      "shape": "none",
+      "width": "1.4861"
+    },
+    {
+      "_gvid": 29,
+      "name": "social_twitter",
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Helvetica bold"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#cc99ff"
+        },
+        {
+          "op": "T",
+          "pt": [83.320,233.450],
+          "align": "c",
+          "width": 68.000,
+          "text": "On Twitter"
+        }
+      ],
+      "color": "#ffffff",
+      "fontcolor": "#cc99ff",
+      "fontname": "Helvetica bold",
+      "height": "0.5",
+      "href": "https:\/\/twitter.com\/drab_makyo",
+      "label": "On Twitter",
+      "pos": "83.324,237.15",
+      "shape": "none",
+      "width": "1.1667"
+    },
+    {
+      "_gvid": 30,
+      "name": "social_mastodon",
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Helvetica bold"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#cc99ff"
+        },
+        {
+          "op": "T",
+          "pt": [130.310,152.070],
+          "align": "c",
+          "width": 88.000,
+          "text": "On Mastodon"
+        }
+      ],
+      "color": "#ffffff",
+      "fontcolor": "#cc99ff",
+      "fontname": "Helvetica bold",
+      "height": "0.5",
+      "href": "https:\/\/snouts.online\/@makyo",
+      "label": "On Mastodon",
+      "pos": "130.31,155.77",
+      "shape": "none",
+      "width": "1.4444"
+    },
+    {
+      "_gvid": 31,
+      "name": "talking",
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Helvetica bold"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#ffffff"
+        },
+        {
+          "op": "T",
+          "pt": [392.430,192.760],
+          "align": "c",
+          "width": 58.000,
+          "text": "Talking..."
+        }
+      ],
+      "color": "#ffffff",
+      "fontcolor": "#ffffff",
+      "fontname": "Helvetica bold",
+      "height": "0.5",
+      "label": "Talking...",
+      "pos": "392.43,196.46",
+      "shape": "none",
+      "width": "1.0278"
+    },
+    {
+      "_gvid": 32,
+      "name": "talking_email",
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Helvetica bold"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#cc99ff"
+        },
+        {
+          "op": "T",
+          "pt": [196.770,85.610],
+          "align": "c",
+          "width": 71.000,
+          "text": "Over email"
+        }
+      ],
+      "color": "#ffffff",
+      "fontcolor": "#cc99ff",
+      "fontname": "Helvetica bold",
+      "height": "0.5",
+      "href": "mailto:makyo@drab-makyo.com",
+      "label": "Over email",
+      "pos": "196.77,89.313",
+      "shape": "none",
+      "width": "1.2083"
+    },
+    {
+      "_gvid": 33,
+      "name": "talking_telegram",
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Helvetica bold"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#cc99ff"
+        },
+        {
+          "op": "T",
+          "pt": [278.150,38.620],
+          "align": "c",
+          "width": 84.000,
+          "text": "On Telegram"
+        }
+      ],
+      "color": "#ffffff",
+      "fontcolor": "#cc99ff",
+      "fontname": "Helvetica bold",
+      "height": "0.5",
+      "href": "https:\/\/t.me\/DrabMakyo",
+      "label": "On Telegram",
+      "pos": "278.15,42.324",
+      "shape": "none",
+      "width": "1.3889"
+    },
+    {
+      "_gvid": 34,
+      "name": "talking_discord",
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Helvetica bold"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#cc99ff"
+        },
+        {
+          "op": "T",
+          "pt": [368.930,14.300],
+          "align": "c",
+          "width": 74.000,
+          "text": "On Discord"
+        }
+      ],
+      "color": "#ffffff",
+      "fontcolor": "#cc99ff",
+      "fontname": "Helvetica bold",
+      "height": "0.5",
+      "href": "\/discord",
+      "label": "On Discord",
+      "pos": "368.93,18",
+      "shape": "none",
+      "title": "Makyo#7093",
+      "width": "1.25"
+    },
+    {
+      "_gvid": 35,
+      "name": "talking_matrix",
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Helvetica bold"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#cc99ff"
+        },
+        {
+          "op": "T",
+          "pt": [462.910,14.300],
+          "align": "c",
+          "width": 64.000,
+          "text": "On Matrix"
+        }
+      ],
+      "color": "#ffffff",
+      "fontcolor": "#cc99ff",
+      "fontname": "Helvetica bold",
+      "height": "0.5",
+      "href": "https:\/\/matrix.to\/#\/@makyo:drab-makyo.com",
+      "label": "On Matrix",
+      "pos": "462.91,18",
+      "shape": "none",
+      "width": "1.1111"
+    },
+    {
+      "_gvid": 36,
+      "name": "talking_wire",
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Helvetica bold"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#cc99ff"
+        },
+        {
+          "op": "T",
+          "pt": [553.690,38.620],
+          "align": "c",
+          "width": 54.000,
+          "text": "On Wire"
+        }
+      ],
+      "color": "#ffffff",
+      "fontcolor": "#cc99ff",
+      "fontname": "Helvetica bold",
+      "height": "0.5",
+      "href": "\/wire",
+      "label": "On Wire",
+      "pos": "553.69,42.324",
+      "shape": "none",
+      "title": "@makyo",
+      "width": "0.97222"
+    },
+    {
+      "_gvid": 37,
+      "name": "working",
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Helvetica bold"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#ffffff"
+        },
+        {
+          "op": "T",
+          "pt": [543.200,243.940],
+          "align": "c",
+          "width": 66.000,
+          "text": "Working..."
+        }
+      ],
+      "color": "#ffffff",
+      "fontcolor": "#ffffff",
+      "fontname": "Helvetica bold",
+      "height": "0.5",
+      "label": "Working...",
+      "pos": "543.2,247.64",
+      "shape": "none",
+      "width": "1.1389"
+    },
+    {
+      "_gvid": 38,
+      "name": "working_current",
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Helvetica bold"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#cc99ff"
+        },
+        {
+          "op": "T",
+          "pt": [635.070,85.610],
+          "align": "c",
+          "width": 92.000,
+          "text": "At New Vector"
+        }
+      ],
+      "color": "#ffffff",
+      "fontcolor": "#cc99ff",
+      "fontname": "Helvetica bold",
+      "height": "0.5",
+      "href": "https:\/\/vector.im",
+      "label": "At New Vector",
+      "pos": "635.07,89.313",
+      "shape": "none",
+      "width": "1.5"
+    },
+    {
+      "_gvid": 39,
+      "name": "working_hybrid",
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Helvetica bold"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#cc99ff"
+        },
+        {
+          "op": "T",
+          "pt": [701.530,152.070],
+          "align": "c",
+          "width": 118.000,
+          "text": "At Hybrid Ink, LLC"
+        }
+      ],
+      "color": "#ffffff",
+      "fontcolor": "#cc99ff",
+      "fontname": "Helvetica bold",
+      "height": "0.5",
+      "href": "https:\/\/hybrid.ink?pk_campaign=source&pk_kwd=makyo.is",
+      "label": "At Hybrid Ink, LLC",
+      "pos": "701.53,155.77",
+      "shape": "none",
+      "width": "1.8611"
+    },
+    {
+      "_gvid": 40,
+      "name": "secure",
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Helvetica bold"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#ffffff"
+        },
+        {
+          "op": "T",
+          "pt": [589.790,324.630],
+          "align": "c",
+          "width": 57.000,
+          "text": "Secure..."
+        }
+      ],
+      "color": "#ffffff",
+      "fontcolor": "#ffffff",
+      "fontname": "Helvetica bold",
+      "height": "0.5",
+      "label": "Secure...",
+      "pos": "589.79,328.33",
+      "shape": "none",
+      "width": "1.0139"
+    },
+    {
+      "_gvid": 41,
+      "name": "secure_keybase",
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Helvetica bold"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#cc99ff"
+        },
+        {
+          "op": "T",
+          "pt": [748.520,233.450],
+          "align": "c",
+          "width": 79.000,
+          "text": "On Keybase"
+        }
+      ],
+      "color": "#ffffff",
+      "fontcolor": "#cc99ff",
+      "fontname": "Helvetica bold",
+      "height": "0.5",
+      "href": "https:\/\/keybase.io\/makyo",
+      "label": "On Keybase",
+      "pos": "748.52,237.15",
+      "shape": "none",
+      "width": "1.3194"
+    },
+    {
+      "_gvid": 42,
+      "name": "secure_everywhere",
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Helvetica bold"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#cc99ff"
+        },
+        {
+          "op": "T",
+          "pt": [772.840,324.230],
+          "align": "c",
+          "width": 77.000,
+          "text": "Everywhere"
+        }
+      ],
+      "color": "#ffffff",
+      "fontcolor": "#cc99ff",
+      "fontname": "Helvetica bold",
+      "height": "0.5",
+      "href": "https:\/\/drab-makyo.com\/pgp",
+      "label": "Everywhere",
+      "pos": "772.84,327.93",
+      "shape": "none",
+      "width": "1.2917"
+    }
+  ],
+  "edges": [
+    {
+      "_gvid": 0,
+      "tail": 9,
+      "head": 10,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#ffffff"
+        },
+        {
+          "op": "b",
+          "points": [[459.610,393.020],[485.980,403.940],[519.240,417.720],[544.460,428.160]]
+        }
+      ],
+      "color": "#ffffff",
+      "pos": "459.61,393.02 485.98,403.94 519.24,417.72 544.46,428.16"
+    },
+    {
+      "_gvid": 1,
+      "tail": 9,
+      "head": 14,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#ffffff"
+        },
+        {
+          "op": "b",
+          "points": [[426.420,393.110],[443.760,423.140],[478.190,482.770],[495.490,512.730]]
+        }
+      ],
+      "color": "#ffffff",
+      "pos": "426.42,393.11 443.76,423.14 478.19,482.77 495.49,512.73"
+    },
+    {
+      "_gvid": 2,
+      "tail": 9,
+      "head": 17,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#ffffff"
+        },
+        {
+          "op": "b",
+          "points": [[413.540,393.010],[409.030,427.220],[399.320,501.000],[394.810,535.240]]
+        }
+      ],
+      "color": "#ffffff",
+      "pos": "413.54,393.01 409.03,427.22 399.32,501 394.81,535.24"
+    },
+    {
+      "_gvid": 3,
+      "tail": 9,
+      "head": 21,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#ffffff"
+        },
+        {
+          "op": "b",
+          "points": [[397.680,393.160],[373.490,417.350],[331.020,459.820],[306.840,484.000]]
+        }
+      ],
+      "color": "#ffffff",
+      "pos": "397.68,393.16 373.49,417.35 331.02,459.82 306.84,484"
+    },
+    {
+      "_gvid": 4,
+      "tail": 9,
+      "head": 24,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#ffffff"
+        },
+        {
+          "op": "b",
+          "points": [[328.780,386.390],[315.160,388.190],[301.460,389.990],[288.980,391.630]]
+        }
+      ],
+      "color": "#ffffff",
+      "pos": "328.78,386.39 315.16,388.19 301.46,389.99 288.98,391.63"
+    },
+    {
+      "_gvid": 5,
+      "tail": 9,
+      "head": 28,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#ffffff"
+        },
+        {
+          "op": "b",
+          "points": [[384.370,356.710],[357.240,341.040],[318.310,318.570],[291.270,302.950]]
+        }
+      ],
+      "color": "#ffffff",
+      "pos": "384.37,356.71 357.24,341.04 318.31,318.57 291.27,302.95"
+    },
+    {
+      "_gvid": 6,
+      "tail": 9,
+      "head": 31,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#ffffff"
+        },
+        {
+          "op": "b",
+          "points": [[413.540,356.830],[409.030,322.620],[399.320,248.840],[394.810,214.600]]
+        }
+      ],
+      "color": "#ffffff",
+      "pos": "413.54,356.83 409.03,322.62 399.32,248.84 394.81,214.6"
+    },
+    {
+      "_gvid": 7,
+      "tail": 9,
+      "head": 37,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#ffffff"
+        },
+        {
+          "op": "b",
+          "points": [[434.160,356.680],[458.350,332.490],[500.820,290.020],[525.000,265.840]]
+        }
+      ],
+      "color": "#ffffff",
+      "pos": "434.16,356.68 458.35,332.49 500.82,290.02 525,265.84"
+    },
+    {
+      "_gvid": 8,
+      "tail": 9,
+      "head": 40,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#ffffff"
+        },
+        {
+          "op": "b",
+          "points": [[483.140,356.910],[506.840,350.560],[532.600,343.660],[552.870,338.230]]
+        }
+      ],
+      "color": "#ffffff",
+      "pos": "483.14,356.91 506.84,350.56 532.6,343.66 552.87,338.23"
+    },
+    {
+      "_gvid": 9,
+      "tail": 10,
+      "head": 11,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#ffffff"
+        },
+        {
+          "op": "b",
+          "points": [[619.880,439.480],[653.300,435.640],[701.860,430.060],[735.260,426.230]]
+        }
+      ],
+      "color": "#ffffff",
+      "pos": "619.88,439.48 653.3,435.64 701.86,430.06 735.26,426.23"
+    },
+    {
+      "_gvid": 10,
+      "tail": 10,
+      "head": 12,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#ffffff"
+        },
+        {
+          "op": "b",
+          "points": [[619.950,459.430],[645.250,469.910],[678.640,483.740],[705.050,494.680]]
+        }
+      ],
+      "color": "#ffffff",
+      "pos": "619.95,459.43 645.25,469.91 678.64,483.74 705.05,494.68"
+    },
+    {
+      "_gvid": 11,
+      "tail": 10,
+      "head": 13,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#ffffff"
+        },
+        {
+          "op": "b",
+          "points": [[596.610,461.930],[619.540,490.810],[664.120,546.960],[687.080,575.880]]
+        }
+      ],
+      "color": "#ffffff",
+      "pos": "596.61,461.93 619.54,490.81 664.12,546.96 687.08,575.88"
+    },
+    {
+      "_gvid": 12,
+      "tail": 14,
+      "head": 15,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#ffffff"
+        },
+        {
+          "op": "b",
+          "points": [[523.880,548.840],[548.420,573.490],[592.180,617.440],[616.850,642.220]]
+        }
+      ],
+      "color": "#ffffff",
+      "pos": "523.88,548.84 548.42,573.49 592.18,617.44 616.85,642.22"
+    },
+    {
+      "_gvid": 13,
+      "tail": 14,
+      "head": 16,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#ffffff"
+        },
+        {
+          "op": "b",
+          "points": [[510.850,549.050],[520.030,583.000],[539.620,655.500],[548.780,689.370]]
+        }
+      ],
+      "color": "#ffffff",
+      "pos": "510.85,549.05 520.03,583 539.62,655.5 548.78,689.37"
+    },
+    {
+      "_gvid": 14,
+      "tail": 17,
+      "head": 18,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#ffffff"
+        },
+        {
+          "op": "b",
+          "points": [[399.570,571.470],[413.080,605.680],[442.220,679.460],[455.740,713.700]]
+        }
+      ],
+      "color": "#ffffff",
+      "pos": "399.57,571.47 413.08,605.68 442.22,679.46 455.74,713.7"
+    },
+    {
+      "_gvid": 15,
+      "tail": 17,
+      "head": 19,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#ffffff"
+        },
+        {
+          "op": "b",
+          "points": [[390.040,571.470],[385.540,605.680],[375.830,679.460],[371.320,713.700]]
+        }
+      ],
+      "color": "#ffffff",
+      "pos": "390.04,571.47 385.54,605.68 375.83,679.46 371.32,713.7"
+    },
+    {
+      "_gvid": 16,
+      "tail": 17,
+      "head": 20,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#ffffff"
+        },
+        {
+          "op": "b",
+          "points": [[378.870,571.670],[356.880,601.330],[313.670,659.600],[291.690,689.250]]
+        }
+      ],
+      "color": "#ffffff",
+      "pos": "378.87,571.67 356.88,601.33 313.67,659.6 291.69,689.25"
+    },
+    {
+      "_gvid": 17,
+      "tail": 21,
+      "head": 22,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#ffffff"
+        },
+        {
+          "op": "b",
+          "points": [[278.100,520.360],[260.470,550.740],[225.200,611.530],[207.470,642.090]]
+        }
+      ],
+      "color": "#ffffff",
+      "pos": "278.1,520.36 260.47,550.74 225.2,611.53 207.47,642.09"
+    },
+    {
+      "_gvid": 18,
+      "tail": 21,
+      "head": 23,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#ffffff"
+        },
+        {
+          "op": "b",
+          "points": [[257.360,520.350],[229.420,536.560],[188.740,560.170],[160.990,576.270]]
+        }
+      ],
+      "color": "#ffffff",
+      "pos": "257.36,520.35 229.42,536.56 188.74,560.17 160.99,576.27"
+    },
+    {
+      "_gvid": 19,
+      "tail": 24,
+      "head": 25,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#ffffff"
+        },
+        {
+          "op": "b",
+          "points": [[213.040,416.520],[184.170,437.920],[136.440,473.300],[107.630,494.660]]
+        }
+      ],
+      "color": "#ffffff",
+      "pos": "213.04,416.52 184.17,437.92 136.44,473.3 107.63,494.66"
+    },
+    {
+      "_gvid": 20,
+      "tail": 24,
+      "head": 26,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#ffffff"
+        },
+        {
+          "op": "b",
+          "points": [[185.840,405.210],[163.400,408.160],[137.070,411.630],[114.240,414.640]]
+        }
+      ],
+      "color": "#ffffff",
+      "pos": "185.84,405.21 163.4,408.16 137.07,411.63 114.24,414.64"
+    },
+    {
+      "_gvid": 21,
+      "tail": 24,
+      "head": 27,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#ffffff"
+        },
+        {
+          "op": "b",
+          "points": [[191.500,380.260],[164.860,369.740],[131.420,356.530],[104.800,346.020]]
+        }
+      ],
+      "color": "#ffffff",
+      "pos": "191.5,380.26 164.86,369.74 131.42,356.53 104.8,346.02"
+    },
+    {
+      "_gvid": 22,
+      "tail": 28,
+      "head": 29,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#ffffff"
+        },
+        {
+          "op": "b",
+          "points": [[206.060,270.330],[180.170,263.330],[149.630,255.080],[125.490,248.550]]
+        }
+      ],
+      "color": "#ffffff",
+      "pos": "206.06,270.33 180.17,263.33 149.63,255.08 125.49,248.55"
+    },
+    {
+      "_gvid": 23,
+      "tail": 28,
+      "head": 30,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#ffffff"
+        },
+        {
+          "op": "b",
+          "points": [[241.720,266.690],[217.000,242.070],[173.210,198.470],[148.530,173.900]]
+        }
+      ],
+      "color": "#ffffff",
+      "pos": "241.72,266.69 217,242.07 173.21,198.47 148.53,173.9"
+    },
+    {
+      "_gvid": 24,
+      "tail": 31,
+      "head": 32,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#ffffff"
+        },
+        {
+          "op": "b",
+          "points": [[359.230,178.280],[323.150,158.520],[265.820,127.130],[229.790,107.400]]
+        }
+      ],
+      "color": "#ffffff",
+      "pos": "359.23,178.28 323.15,158.52 265.82,127.13 229.79,107.4"
+    },
+    {
+      "_gvid": 25,
+      "tail": 31,
+      "head": 33,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#ffffff"
+        },
+        {
+          "op": "b",
+          "points": [[378.870,178.170],[356.880,148.510],[313.670,90.240],[291.690,60.590]]
+        }
+      ],
+      "color": "#ffffff",
+      "pos": "378.87,178.17 356.88,148.51 313.67,90.236 291.69,60.586"
+    },
+    {
+      "_gvid": 26,
+      "tail": 31,
+      "head": 34,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#ffffff"
+        },
+        {
+          "op": "b",
+          "points": [[390.040,178.370],[385.540,144.160],[375.830,70.380],[371.320,36.140]]
+        }
+      ],
+      "color": "#ffffff",
+      "pos": "390.04,178.37 385.54,144.16 375.83,70.383 371.32,36.142"
+    },
+    {
+      "_gvid": 27,
+      "tail": 31,
+      "head": 35,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#ffffff"
+        },
+        {
+          "op": "b",
+          "points": [[399.570,178.370],[413.080,144.160],[442.220,70.380],[455.740,36.140]]
+        }
+      ],
+      "color": "#ffffff",
+      "pos": "399.57,178.37 413.08,144.16 442.22,70.383 455.74,36.142"
+    },
+    {
+      "_gvid": 28,
+      "tail": 31,
+      "head": 36,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#ffffff"
+        },
+        {
+          "op": "b",
+          "points": [[411.560,178.170],[442.590,148.510],[503.560,90.240],[534.580,60.590]]
+        }
+      ],
+      "color": "#ffffff",
+      "pos": "411.56,178.17 442.59,148.51 503.56,90.236 534.58,60.586"
+    },
+    {
+      "_gvid": 29,
+      "tail": 37,
+      "head": 38,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#ffffff"
+        },
+        {
+          "op": "b",
+          "points": [[553.740,229.480],[571.370,199.100],[606.640,138.310],[624.370,107.750]]
+        }
+      ],
+      "color": "#ffffff",
+      "pos": "553.74,229.48 571.37,199.1 606.64,138.31 624.37,107.75"
+    },
+    {
+      "_gvid": 30,
+      "tail": 37,
+      "head": 39,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#ffffff"
+        },
+        {
+          "op": "b",
+          "points": [[574.480,229.490],[602.240,213.380],[642.570,189.980],[670.310,173.880]]
+        }
+      ],
+      "color": "#ffffff",
+      "pos": "574.48,229.49 602.24,213.38 642.57,189.98 670.31,173.88"
+    },
+    {
+      "_gvid": 31,
+      "tail": 40,
+      "head": 41,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#ffffff"
+        },
+        {
+          "op": "b",
+          "points": [[621.150,310.320],[648.880,294.390],[689.150,271.250],[716.950,255.290]]
+        }
+      ],
+      "color": "#ffffff",
+      "pos": "621.15,310.32 648.88,294.39 689.15,271.25 716.95,255.29"
+    },
+    {
+      "_gvid": 32,
+      "tail": 40,
+      "head": 42,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#ffffff"
+        },
+        {
+          "op": "b",
+          "points": [[626.390,328.250],[655.080,328.190],[695.200,328.100],[726.200,328.030]]
+        }
+      ],
+      "color": "#ffffff",
+      "pos": "626.39,328.25 655.08,328.19 695.2,328.1 726.2,328.03"
+    }
+  ]
+}
