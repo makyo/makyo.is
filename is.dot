@@ -47,9 +47,8 @@ graph is {
     copula -- talking -- { talking_email, talking_telegram, talking_discord, talking_matrix, talking_wire }
 
     working [label="Working..."]
-    working_current [label="At New Vector",fontcolor="#cc99ff",href="https://vector.im"]
     working_hybrid [label="At Hybrid Ink, LLC",fontcolor="#cc99ff",href="https://hybrid.ink?pk_campaign=source&pk_kwd=makyo.is"]
-    copula -- working -- { working_current, working_hybrid }
+    copula -- working -- { working_hybrid }
 
     secure [label="Secure..."]
     secure_keybase [label="On Keybase",fontcolor="#cc99ff",href="https://keybase.io/makyo"]
