@@ -50,13 +50,13 @@ graph is {
     working_hybrid [label="At Hybrid Ink, LLC",fontcolor="#cc99ff",href="https://hybrid.ink?pk_campaign=source&pk_kwd=makyo.is"]
     copula -- working -- { working_hybrid }
 
-    patron [label="Seeking patronage..."]
-    patron_patreon [label="On Patreon",fontcolor="#cc99ff",href="https://patreon.com/makyo"]
-    patron_gumroad [label="On Gumroad",fontcolor="#cc99ff",href="https://gum.co/makyo-patronage"]
-    copula -- patron -- { patron_patreon, patron_gumroad }
-
     secure [label="Secure..."]
     secure_keybase [label="On Keybase",fontcolor="#cc99ff",href="https://keybase.io/makyo"]
     secure_everywhere [label="Everywhere",fontcolor="#cc99ff",href="https://drab-makyo.com/pgp"]
     copula -- secure -- { secure_everywhere, secure_keybase }
+
+    patron [label="Seeking patronage..."]
+    patron_patreon [label="On Patreon",fontcolor="#cc99ff",href="https://patreon.com/makyo"]
+    patron_gumroad [label="On Gumroad",fontcolor="#cc99ff",href="https://gum.co/makyo-patronage"]
+    copula -- patron -- { patron_patreon, patron_gumroad }
 }

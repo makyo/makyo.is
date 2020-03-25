@@ -16,10 +16,10 @@
     },
     {
       "op": "P",
-      "points": [[0.000,0.000],[0.000,754.580],[822.660,754.580],[822.660,0.000]]
+      "points": [[0.000,0.000],[0.000,754.580],[826.660,754.580],[826.660,0.000]]
     }
   ],
-  "bb": "0,0,822.66,754.58",
+  "bb": "0,0,826.66,754.58",
   "bgcolor": "#222222",
   "label": "",
   "margin": "0",
@@ -1134,7 +1134,7 @@
     },
     {
       "_gvid": 40,
-      "name": "patron",
+      "name": "secure",
       "_ldraw_": 
       [
         {
@@ -1151,22 +1151,22 @@
           "op": "T",
           "pt": [550.210,250.370],
           "align": "c",
-          "width": 133.000,
-          "text": "Seeking patronage..."
+          "width": 57.000,
+          "text": "Secure..."
         }
       ],
       "color": "#ffffff",
       "fontcolor": "#ffffff",
       "fontname": "Helvetica bold",
       "height": "0.5",
-      "label": "Seeking patronage...",
+      "label": "Secure...",
       "pos": "550.21,254.07",
       "shape": "none",
-      "width": "2.0694"
+      "width": "1.0139"
     },
     {
       "_gvid": 41,
-      "name": "patron_patreon",
+      "name": "secure_keybase",
       "_ldraw_": 
       [
         {
@@ -1183,23 +1183,23 @@
           "op": "T",
           "pt": [648.470,96.200],
           "align": "c",
-          "width": 74.000,
-          "text": "On Patreon"
+          "width": 79.000,
+          "text": "On Keybase"
         }
       ],
       "color": "#ffffff",
       "fontcolor": "#cc99ff",
       "fontname": "Helvetica bold",
       "height": "0.5",
-      "href": "https:\/\/patreon.com\/makyo",
-      "label": "On Patreon",
+      "href": "https:\/\/keybase.io\/makyo",
+      "label": "On Keybase",
       "pos": "648.47,99.905",
       "shape": "none",
-      "width": "1.25"
+      "width": "1.3194"
     },
     {
       "_gvid": 42,
-      "name": "patron_gumroad",
+      "name": "secure_everywhere",
       "_ldraw_": 
       [
         {
@@ -1216,23 +1216,23 @@
           "op": "T",
           "pt": [710.250,161.990],
           "align": "c",
-          "width": 85.000,
-          "text": "On Gumroad"
+          "width": 77.000,
+          "text": "Everywhere"
         }
       ],
       "color": "#ffffff",
       "fontcolor": "#cc99ff",
       "fontname": "Helvetica bold",
       "height": "0.5",
-      "href": "https:\/\/gum.co\/makyo-patronage",
-      "label": "On Gumroad",
+      "href": "https:\/\/drab-makyo.com\/pgp",
+      "label": "Everywhere",
       "pos": "710.25,165.69",
       "shape": "none",
-      "width": "1.4028"
+      "width": "1.2917"
     },
     {
       "_gvid": 43,
-      "name": "secure",
+      "name": "patron",
       "_ldraw_": 
       [
         {
@@ -1249,22 +1249,22 @@
           "op": "T",
           "pt": [593.340,328.830],
           "align": "c",
-          "width": 57.000,
-          "text": "Secure..."
+          "width": 133.000,
+          "text": "Seeking patronage..."
         }
       ],
       "color": "#ffffff",
       "fontcolor": "#ffffff",
       "fontname": "Helvetica bold",
       "height": "0.5",
-      "label": "Secure...",
+      "label": "Seeking patronage...",
       "pos": "593.34,332.53",
       "shape": "none",
-      "width": "1.0139"
+      "width": "2.0694"
     },
     {
       "_gvid": 44,
-      "name": "secure_keybase",
+      "name": "patron_patreon",
       "_ldraw_": 
       [
         {
@@ -1281,23 +1281,23 @@
           "op": "T",
           "pt": [753.720,241.060],
           "align": "c",
-          "width": 79.000,
-          "text": "On Keybase"
+          "width": 74.000,
+          "text": "On Patreon"
         }
       ],
       "color": "#ffffff",
       "fontcolor": "#cc99ff",
       "fontname": "Helvetica bold",
       "height": "0.5",
-      "href": "https:\/\/keybase.io\/makyo",
-      "label": "On Keybase",
+      "href": "https:\/\/patreon.com\/makyo",
+      "label": "On Patreon",
       "pos": "753.72,244.76",
       "shape": "none",
-      "width": "1.3194"
+      "width": "1.25"
     },
     {
       "_gvid": 45,
-      "name": "secure_everywhere",
+      "name": "patron_gumroad",
       "_ldraw_": 
       [
         {
@@ -1314,19 +1314,19 @@
           "op": "T",
           "pt": [776.160,328.470],
           "align": "c",
-          "width": 77.000,
-          "text": "Everywhere"
+          "width": 85.000,
+          "text": "On Gumroad"
         }
       ],
       "color": "#ffffff",
       "fontcolor": "#cc99ff",
       "fontname": "Helvetica bold",
       "height": "0.5",
-      "href": "https:\/\/drab-makyo.com\/pgp",
-      "label": "Everywhere",
+      "href": "https:\/\/gum.co\/makyo-patronage",
+      "label": "On Gumroad",
       "pos": "776.16,332.17",
       "shape": "none",
-      "width": "1.2917"
+      "width": "1.4028"
     }
   ],
   "edges": [
@@ -1514,11 +1514,11 @@
         },
         {
           "op": "b",
-          "points": [[489.160,359.280],[512.250,353.350],[536.990,346.990],[556.570,341.970]]
+          "points": [[489.160,359.280],[500.320,356.410],[511.880,353.440],[523.050,350.580]]
         }
       ],
       "color": "#ffffff",
-      "pos": "489.16,359.28 512.25,353.35 536.99,346.99 556.57,341.97"
+      "pos": "489.16,359.28 500.32,356.41 511.88,353.44 523.05,350.58"
     },
     {
       "_gvid": 10,
@@ -1989,11 +1989,11 @@
         },
         {
           "op": "b",
-          "points": [[629.900,332.450],[658.560,332.400],[698.620,332.320],[729.580,332.260]]
+          "points": [[667.970,332.380],[687.320,332.340],[707.710,332.300],[725.510,332.270]]
         }
       ],
       "color": "#ffffff",
-      "pos": "629.9,332.45 658.56,332.4 698.62,332.32 729.58,332.26"
+      "pos": "667.97,332.38 687.32,332.34 707.71,332.3 725.51,332.27"
     }
   ]
 }
