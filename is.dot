@@ -47,8 +47,9 @@ graph is {
     copula -- talking -- { talking_email, talking_telegram, talking_discord, talking_matrix, talking_wire }
 
     working [label="Working..."]
+    working_nvidia [label="At Nvidia",fontcolor="#cc99ff",href="https://nvidia.com"]
     working_hybrid [label="At Hybrid Ink, LLC",fontcolor="#cc99ff",href="https://hybrid.ink?pk_campaign=source&pk_kwd=makyo.is"]
-    copula -- working -- { working_hybrid }
+    copula -- working -- { working_hybrid, working_nvidia }
 
     secure [label="Secure..."]
     secure_keybase [label="On Keybase",fontcolor="#cc99ff",href="https://keybase.io/makyo"]
@@ -57,6 +58,5 @@ graph is {
 
     patron [label="Seeking patronage..."]
     patron_patreon [label="On Patreon",fontcolor="#cc99ff",href="https://patreon.com/makyo"]
-    patron_gumroad [label="On Gumroad",fontcolor="#cc99ff",href="https://gum.co/makyo-patronage"]
-    copula -- patron -- { patron_patreon, patron_gumroad }
+    copula -- patron -- { patron_patreon }
 }
