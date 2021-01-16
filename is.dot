@@ -34,7 +34,7 @@ graph is {
     copula -- composing -- { composing_portfolio, composing_bandcamp, composing_soundcloud }
 
     social [label="Being social..."]
-    social_twitter [label="On Twitter",fontcolor="#cc99ff",href="https://twitter.com/drab_makyo"]
+    social_twitter [label="On Twitter",fontcolor="#cc99ff",href="https://twitter.com/makyo_writes"]
     social_mastodon [label="On Mastodon",fontcolor="#cc99ff",href="https://maddypa.ws/@makyo"]
     copula -- social -- { social_twitter, social_mastodon }
 
