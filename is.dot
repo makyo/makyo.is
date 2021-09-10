@@ -44,7 +44,8 @@ graph is {
     talking_discord [label="On Discord",fontcolor="#cc99ff",href="/discord",title="Makyo#7093"]
     /*talking_matrix [label="On Matrix",fontcolor="#cc99ff",href="https://matrix.to/#/@makyo:drab-makyo.com"]
     talking_wire [label="On Wire",fontcolor="#cc99ff",href="/wire",title="@makyo"]*/
-    copula -- talking -- { talking_email, talking_telegram, talking_discord /*, talking_matrix, talking_wire*/ }
+    talking_phone [label="Over text 🔒 ",fontcolor="#cc99ff",href="tel:3038185943"]
+    copula -- talking -- { talking_email, talking_telegram, talking_discord, talking_phone /*, talking_matrix, talking_wire*/ }
 
     working [label="Working..."]
     working_nvidia [label="At Nvidia",fontcolor="#cc99ff",href="https://nvidia.com"]
