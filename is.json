@@ -265,8 +265,8 @@
           "op": "T",
           "pt": [743.300,523.850],
           "align": "c",
-          "width": 106.000,
-          "text": "For her portfolio"
+          "width": 112.000,
+          "text": "About everything"
         }
       ],
       "color": "#ffffff",
@@ -274,10 +274,10 @@
       "fontname": "Helvetica bold",
       "height": "0.5",
       "href": "https:\/\/makyo.ink?pk_campaign=source&pk_kwd=makyo.is",
-      "label": "For her portfolio",
+      "label": "About everything",
       "pos": "743.3,527.55",
       "shape": "none",
-      "width": "1.6944"
+      "width": "1.7778"
     },
     {
       "_gvid": 14,

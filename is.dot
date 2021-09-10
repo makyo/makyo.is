@@ -8,7 +8,7 @@ graph is {
     writing [label="Writing..."]
     /* writing_anything [label="Anything",fontcolor="#cc99ff",href="https://writing.drab-makyo.com?pk_campaign=source&pk_kwd=makyo.is"] */
     writing_ally [label="About herself",fontcolor="#cc99ff",href="https://ally.id?pk_campaign=source&pk_kwd=makyo.is"]
-    writing_portfolio [label="For her portfolio",fontcolor="#cc99ff",href="https://makyo.ink?pk_campaign=source&pk_kwd=makyo.is"]
+    writing_portfolio [label="About everything",fontcolor="#cc99ff",href="https://makyo.ink?pk_campaign=source&pk_kwd=makyo.is"]
     copula -- writing -- { /* writing_anything, */ writing_ally, writing_portfolio }
 
     photography [label="Taking pictures..."]
