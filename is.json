@@ -1034,7 +1034,7 @@
     },
     {
       "_gvid": 37,
-      "name": "working_nvidia",
+      "name": "working_do",
       "_ldraw_": 
       [
         {
@@ -1051,19 +1051,19 @@
           "op": "T",
           "pt": [610.470,71.450],
           "align": "c",
-          "width": 59.000,
-          "text": "At Nvidia"
+          "width": 103.000,
+          "text": "At DigitalOcean"
         }
       ],
       "color": "#ffffff",
       "fontcolor": "#cc99ff",
       "fontname": "Helvetica bold",
       "height": "0.5",
-      "href": "https:\/\/nvidia.com",
-      "label": "At Nvidia",
+      "href": "https:\/\/www.digitalocean.com\/community\/users\/mscottclary",
+      "label": "At DigitalOcean",
       "pos": "610.47,75.149",
       "shape": "none",
-      "width": "1.0417"
+      "width": "1.6528"
     },
     {
       "_gvid": 38,

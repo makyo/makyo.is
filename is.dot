@@ -48,9 +48,9 @@ graph is {
     copula -- talking -- { talking_email, talking_telegram, talking_discord, talking_phone /*, talking_matrix, talking_wire*/ }
 
     working [label="Working..."]
-    working_nvidia [label="At Nvidia",fontcolor="#cc99ff",href="https://nvidia.com"]
+    working_do [label="At DigitalOcean",fontcolor="#cc99ff",href="https://www.digitalocean.com/community/users/mscottclary"]
     /* working_hybrid [label="At Hybrid Ink, LLC",fontcolor="#cc99ff",href="https://hybrid.ink?pk_campaign=source&pk_kwd=makyo.is"] */
-    copula -- working -- { /*working_hybrid, */ working_nvidia }
+    copula -- working -- { /*working_hybrid, */ working_do }
 
     secure [label="Secure..."]
     secure_keybase [label="On Keybase",fontcolor="#cc99ff",href="https://keybase.io/makyo"]

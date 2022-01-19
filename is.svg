@@ -13,14 +13,14 @@
 <g id="node1" class="node">
 <title>copula</title>
 <g id="a_node1"><a xlink:href="https://drab-makyo.com?pk_campaign=source&pk_kwd=makyo.is" xlink:title="Madison Scott&#45;Clary is...">
-<text text-anchor="middle" x="415.84" y="-374.3" font-family="Helvetica bold" font-size="14.00" fill="#cc99ff">Madison Scott&#45;Clary is...</text>
+<text text-anchor="middle" x="415.84" y="-374.3" font-size="14.00" fill="#cc99ff">Madison Scott&#45;Clary is...</text>
 </a>
 </g>
 </g>
 <!-- writing -->
 <g id="node2" class="node">
 <title>writing</title>
-<text text-anchor="middle" x="588.54" y="-425.01" font-family="Helvetica bold" font-size="14.00" fill="#ffffff">Writing...</text>
+<text text-anchor="middle" x="588.54" y="-425.01" font-size="14.00" fill="#ffffff">Writing...</text>
 </g>
 <!-- copula&#45;&#45;writing -->
 <g id="edge1" class="edge">
@@ -30,7 +30,7 @@
 <!-- photography -->
 <g id="node5" class="node">
 <title>photography</title>
-<text text-anchor="middle" x="533.71" y="-510.33" font-family="Helvetica bold" font-size="14.00" fill="#ffffff">Taking pictures...</text>
+<text text-anchor="middle" x="533.71" y="-510.33" font-size="14.00" fill="#ffffff">Taking pictures...</text>
 </g>
 <!-- copula&#45;&#45;photography -->
 <g id="edge4" class="edge">
@@ -40,7 +40,7 @@
 <!-- programming -->
 <g id="node8" class="node">
 <title>programming</title>
-<text text-anchor="middle" x="415.84" y="-554.3" font-family="Helvetica bold" font-size="14.00" fill="#ffffff">Programming...</text>
+<text text-anchor="middle" x="415.84" y="-554.3" font-size="14.00" fill="#ffffff">Programming...</text>
 </g>
 <!-- copula&#45;&#45;programming -->
 <g id="edge7" class="edge">
@@ -50,7 +50,7 @@
 <!-- cooking -->
 <g id="node12" class="node">
 <title>cooking</title>
-<text text-anchor="middle" x="297.96" y="-510.33" font-family="Helvetica bold" font-size="14.00" fill="#ffffff">Cooking...</text>
+<text text-anchor="middle" x="297.96" y="-510.33" font-size="14.00" fill="#ffffff">Cooking...</text>
 </g>
 <!-- copula&#45;&#45;cooking -->
 <g id="edge11" class="edge">
@@ -60,7 +60,7 @@
 <!-- composing -->
 <g id="node15" class="node">
 <title>composing</title>
-<text text-anchor="middle" x="237.67" y="-399.92" font-family="Helvetica bold" font-size="14.00" fill="#ffffff">Composing...</text>
+<text text-anchor="middle" x="237.67" y="-399.92" font-size="14.00" fill="#ffffff">Composing...</text>
 </g>
 <!-- copula&#45;&#45;composing -->
 <g id="edge14" class="edge">
@@ -70,7 +70,7 @@
 <!-- social -->
 <g id="node19" class="node">
 <title>social</title>
-<text text-anchor="middle" x="264.41" y="-276.98" font-family="Helvetica bold" font-size="14.00" fill="#ffffff">Being social...</text>
+<text text-anchor="middle" x="264.41" y="-276.98" font-size="14.00" fill="#ffffff">Being social...</text>
 </g>
 <!-- copula&#45;&#45;social -->
 <g id="edge18" class="edge">
@@ -80,7 +80,7 @@
 <!-- talking -->
 <g id="node22" class="node">
 <title>talking</title>
-<text text-anchor="middle" x="390.22" y="-196.13" font-family="Helvetica bold" font-size="14.00" fill="#ffffff">Talking...</text>
+<text text-anchor="middle" x="390.22" y="-196.13" font-size="14.00" fill="#ffffff">Talking...</text>
 </g>
 <!-- copula&#45;&#45;talking -->
 <g id="edge21" class="edge">
@@ -90,7 +90,7 @@
 <!-- working -->
 <g id="node27" class="node">
 <title>working</title>
-<text text-anchor="middle" x="513.15" y="-222.87" font-family="Helvetica bold" font-size="14.00" fill="#ffffff">Working...</text>
+<text text-anchor="middle" x="513.15" y="-222.87" font-size="14.00" fill="#ffffff">Working...</text>
 </g>
 <!-- copula&#45;&#45;working -->
 <g id="edge26" class="edge">
@@ -100,7 +100,7 @@
 <!-- secure -->
 <g id="node29" class="node">
 <title>secure</title>
-<text text-anchor="middle" x="567.26" y="-276.98" font-family="Helvetica bold" font-size="14.00" fill="#ffffff">Secure...</text>
+<text text-anchor="middle" x="567.26" y="-276.98" font-size="14.00" fill="#ffffff">Secure...</text>
 </g>
 <!-- copula&#45;&#45;secure -->
 <g id="edge28" class="edge">
@@ -110,7 +110,7 @@
 <!-- patron -->
 <g id="node32" class="node">
 <title>patron</title>
-<text text-anchor="middle" x="594" y="-348.68" font-family="Helvetica bold" font-size="14.00" fill="#ffffff">Seeking patronage...</text>
+<text text-anchor="middle" x="594" y="-348.68" font-size="14.00" fill="#ffffff">Seeking patronage...</text>
 </g>
 <!-- copula&#45;&#45;patron -->
 <g id="edge31" class="edge">
@@ -121,7 +121,7 @@
 <g id="node3" class="node">
 <title>writing_ally</title>
 <g id="a_node3"><a xlink:href="https://ally.id?pk_campaign=source&pk_kwd=makyo.is" xlink:title="About herself">
-<text text-anchor="middle" x="772.17" y="-425.53" font-family="Helvetica bold" font-size="14.00" fill="#cc99ff">About herself</text>
+<text text-anchor="middle" x="772.17" y="-425.53" font-size="14.00" fill="#cc99ff">About herself</text>
 </a>
 </g>
 </g>
@@ -134,7 +134,7 @@
 <g id="node4" class="node">
 <title>writing_portfolio</title>
 <g id="a_node4"><a xlink:href="https://makyo.ink?pk_campaign=source&pk_kwd=makyo.is" xlink:title="About everything">
-<text text-anchor="middle" x="743.3" y="-523.85" font-family="Helvetica bold" font-size="14.00" fill="#cc99ff">About everything</text>
+<text text-anchor="middle" x="743.3" y="-523.85" font-size="14.00" fill="#cc99ff">About everything</text>
 </a>
 </g>
 </g>
@@ -147,7 +147,7 @@
 <g id="node6" class="node">
 <title>photography_flickr</title>
 <g id="a_node6"><a xlink:href="https://flickr.com/photos/ranna" xlink:title="On Flickr">
-<text text-anchor="middle" x="687.91" y="-610.05" font-family="Helvetica bold" font-size="14.00" fill="#cc99ff">On Flickr</text>
+<text text-anchor="middle" x="687.91" y="-610.05" font-size="14.00" fill="#cc99ff">On Flickr</text>
 </a>
 </g>
 </g>
@@ -160,7 +160,7 @@
 <g id="node7" class="node">
 <title>photography_portfolio</title>
 <g id="a_node7"><a xlink:href="https://makyo.photography" xlink:title="For her portfolio">
-<text text-anchor="middle" x="610.47" y="-677.15" font-family="Helvetica bold" font-size="14.00" fill="#cc99ff">For her portfolio</text>
+<text text-anchor="middle" x="610.47" y="-677.15" font-size="14.00" fill="#cc99ff">For her portfolio</text>
 </a>
 </g>
 </g>
@@ -173,7 +173,7 @@
 <g id="node9" class="node">
 <title>programming_github</title>
 <g id="a_node9"><a xlink:href="https://github.com/makyo" xlink:title="On GitHub">
-<text text-anchor="middle" x="517.26" y="-719.72" font-family="Helvetica bold" font-size="14.00" fill="#cc99ff">On GitHub</text>
+<text text-anchor="middle" x="517.26" y="-719.72" font-size="14.00" fill="#cc99ff">On GitHub</text>
 </a>
 </g>
 </g>
@@ -186,7 +186,7 @@
 <g id="node10" class="node">
 <title>programming_launchpad</title>
 <g id="a_node10"><a xlink:href="https://launchpad.net/~makyo" xlink:title="On Launchpad">
-<text text-anchor="middle" x="415.84" y="-734.3" font-family="Helvetica bold" font-size="14.00" fill="#cc99ff">On Launchpad</text>
+<text text-anchor="middle" x="415.84" y="-734.3" font-size="14.00" fill="#cc99ff">On Launchpad</text>
 </a>
 </g>
 </g>
@@ -199,7 +199,7 @@
 <g id="node11" class="node">
 <title>programming_personal</title>
 <g id="a_node11"><a xlink:href="https://makyo.dev" xlink:title="Her own stuff">
-<text text-anchor="middle" x="314.41" y="-719.72" font-family="Helvetica bold" font-size="14.00" fill="#cc99ff">Her own stuff</text>
+<text text-anchor="middle" x="314.41" y="-719.72" font-size="14.00" fill="#cc99ff">Her own stuff</text>
 </a>
 </g>
 </g>
@@ -212,7 +212,7 @@
 <g id="node13" class="node">
 <title>cooking_quietly</title>
 <g id="a_node13"><a xlink:href="https://makyo.cooking?pk_campaign=source&pk_kwd=makyo.is" xlink:title="Quietly">
-<text text-anchor="middle" x="221.21" y="-677.15" font-family="Helvetica bold" font-size="14.00" fill="#cc99ff">Quietly</text>
+<text text-anchor="middle" x="221.21" y="-677.15" font-size="14.00" fill="#cc99ff">Quietly</text>
 </a>
 </g>
 </g>
@@ -225,7 +225,7 @@
 <g id="node14" class="node">
 <title>cooking_loudly</title>
 <g id="a_node14"><a xlink:href="https://mealtime.with.maddypa.ws?pk_campaign=source&pk_kwd=makyo.is" xlink:title="Loudly">
-<text text-anchor="middle" x="143.77" y="-610.05" font-family="Helvetica bold" font-size="14.00" fill="#cc99ff">Loudly</text>
+<text text-anchor="middle" x="143.77" y="-610.05" font-size="14.00" fill="#cc99ff">Loudly</text>
 </a>
 </g>
 </g>
@@ -238,7 +238,7 @@
 <g id="node16" class="node">
 <title>composing_portfolio</title>
 <g id="a_node16"><a xlink:href="https://sounds.drab-makyo.com?pk_campaign=source&pk_kwd=makyo.is" xlink:title="For her portfolio">
-<text text-anchor="middle" x="88.37" y="-523.85" font-family="Helvetica bold" font-size="14.00" fill="#cc99ff">For her portfolio</text>
+<text text-anchor="middle" x="88.37" y="-523.85" font-size="14.00" fill="#cc99ff">For her portfolio</text>
 </a>
 </g>
 </g>
@@ -251,7 +251,7 @@
 <g id="node17" class="node">
 <title>composing_bandcamp</title>
 <g id="a_node17"><a xlink:href="https://drab-makyo.bandcamp.com" xlink:title="On Bandcamp">
-<text text-anchor="middle" x="59.5" y="-425.53" font-family="Helvetica bold" font-size="14.00" fill="#cc99ff">On Bandcamp</text>
+<text text-anchor="middle" x="59.5" y="-425.53" font-size="14.00" fill="#cc99ff">On Bandcamp</text>
 </a>
 </g>
 </g>
@@ -264,7 +264,7 @@
 <g id="node18" class="node">
 <title>composing_soundcloud</title>
 <g id="a_node18"><a xlink:href="https://soundcloud.com/drabmakyo" xlink:title="On Soundcloud">
-<text text-anchor="middle" x="59.5" y="-323.07" font-family="Helvetica bold" font-size="14.00" fill="#cc99ff">On Soundcloud</text>
+<text text-anchor="middle" x="59.5" y="-323.07" font-size="14.00" fill="#cc99ff">On Soundcloud</text>
 </a>
 </g>
 </g>
@@ -277,7 +277,7 @@
 <g id="node20" class="node">
 <title>social_twitter</title>
 <g id="a_node20"><a xlink:href="https://twitter.com/makyo_writes" xlink:title="On Twitter">
-<text text-anchor="middle" x="88.37" y="-224.75" font-family="Helvetica bold" font-size="14.00" fill="#cc99ff">On Twitter</text>
+<text text-anchor="middle" x="88.37" y="-224.75" font-size="14.00" fill="#cc99ff">On Twitter</text>
 </a>
 </g>
 </g>
@@ -290,7 +290,7 @@
 <g id="node21" class="node">
 <title>social_mastodon</title>
 <g id="a_node21"><a xlink:href="https://maddypa.ws/@makyo" xlink:title="On Mastodon">
-<text text-anchor="middle" x="143.77" y="-138.55" font-family="Helvetica bold" font-size="14.00" fill="#cc99ff">On Mastodon</text>
+<text text-anchor="middle" x="143.77" y="-138.55" font-size="14.00" fill="#cc99ff">On Mastodon</text>
 </a>
 </g>
 </g>
@@ -303,7 +303,7 @@
 <g id="node23" class="node">
 <title>talking_email</title>
 <g id="a_node23"><a xlink:href="mailto:makyo@drab-makyo.com" xlink:title="Over email">
-<text text-anchor="middle" x="221.21" y="-71.45" font-family="Helvetica bold" font-size="14.00" fill="#cc99ff">Over email</text>
+<text text-anchor="middle" x="221.21" y="-71.45" font-size="14.00" fill="#cc99ff">Over email</text>
 </a>
 </g>
 </g>
@@ -316,7 +316,7 @@
 <g id="node24" class="node">
 <title>talking_telegram</title>
 <g id="a_node24"><a xlink:href="https://t.me/DrabMakyo" xlink:title="On Telegram">
-<text text-anchor="middle" x="314.41" y="-28.88" font-family="Helvetica bold" font-size="14.00" fill="#cc99ff">On Telegram</text>
+<text text-anchor="middle" x="314.41" y="-28.88" font-size="14.00" fill="#cc99ff">On Telegram</text>
 </a>
 </g>
 </g>
@@ -329,7 +329,7 @@
 <g id="node25" class="node">
 <title>talking_discord</title>
 <g id="a_node25"><a xlink:href="/discord" xlink:title="On Discord">
-<text text-anchor="middle" x="415.84" y="-14.3" font-family="Helvetica bold" font-size="14.00" fill="#cc99ff">On Discord</text>
+<text text-anchor="middle" x="415.84" y="-14.3" font-size="14.00" fill="#cc99ff">On Discord</text>
 </a>
 </g>
 </g>
@@ -342,7 +342,7 @@
 <g id="node26" class="node">
 <title>talking_phone</title>
 <g id="a_node26"><a xlink:href="tel:3038185943" xlink:title="Over text 🔒 ">
-<text text-anchor="middle" x="517.26" y="-28.88" font-family="Helvetica bold" font-size="14.00" fill="#cc99ff">Over text 🔒 </text>
+<text text-anchor="middle" x="517.26" y="-28.88" font-size="14.00" fill="#cc99ff">Over text 🔒 </text>
 </a>
 </g>
 </g>
@@ -351,24 +351,24 @@
 <title>talking&#45;&#45;talking_phone</title>
 <path fill="none" stroke="#ffffff" d="M404.06,-181.62C428.49,-149.44 479.01,-82.93 503.44,-50.78"/>
 </g>
-<!-- working_nvidia -->
+<!-- working_do -->
 <g id="node28" class="node">
-<title>working_nvidia</title>
-<g id="a_node28"><a xlink:href="https://nvidia.com" xlink:title="At Nvidia">
-<text text-anchor="middle" x="610.47" y="-71.45" font-family="Helvetica bold" font-size="14.00" fill="#cc99ff">At Nvidia</text>
+<title>working_do</title>
+<g id="a_node28"><a xlink:href="https://www.digitalocean.com/community/users/mscottclary" xlink:title="At DigitalOcean">
+<text text-anchor="middle" x="610.47" y="-71.45" font-size="14.00" fill="#cc99ff">At DigitalOcean</text>
 </a>
 </g>
 </g>
-<!-- working&#45;&#45;working_nvidia -->
+<!-- working&#45;&#45;working_do -->
 <g id="edge27" class="edge">
-<title>working&#45;&#45;working_nvidia</title>
+<title>working&#45;&#45;working_do</title>
 <path fill="none" stroke="#ffffff" d="M524.89,-208.31C543.59,-179.2 579.96,-122.62 598.69,-93.48"/>
 </g>
 <!-- secure_keybase -->
 <g id="node30" class="node">
 <title>secure_keybase</title>
 <g id="a_node30"><a xlink:href="https://keybase.io/makyo" xlink:title="On Keybase">
-<text text-anchor="middle" x="687.91" y="-138.55" font-family="Helvetica bold" font-size="14.00" fill="#cc99ff">On Keybase</text>
+<text text-anchor="middle" x="687.91" y="-138.55" font-size="14.00" fill="#cc99ff">On Keybase</text>
 </a>
 </g>
 </g>
@@ -381,7 +381,7 @@
 <g id="node31" class="node">
 <title>secure_everywhere</title>
 <g id="a_node31"><a xlink:href="https://drab-makyo.com/pgp" xlink:title="Everywhere">
-<text text-anchor="middle" x="743.3" y="-224.75" font-family="Helvetica bold" font-size="14.00" fill="#cc99ff">Everywhere</text>
+<text text-anchor="middle" x="743.3" y="-224.75" font-size="14.00" fill="#cc99ff">Everywhere</text>
 </a>
 </g>
 </g>
@@ -394,7 +394,7 @@
 <g id="node33" class="node">
 <title>patron_patreon</title>
 <g id="a_node33"><a xlink:href="https://patreon.com/makyo" xlink:title="On Patreon">
-<text text-anchor="middle" x="772.17" y="-323.07" font-family="Helvetica bold" font-size="14.00" fill="#cc99ff">On Patreon</text>
+<text text-anchor="middle" x="772.17" y="-323.07" font-size="14.00" fill="#cc99ff">On Patreon</text>
 </a>
 </g>
 </g>
