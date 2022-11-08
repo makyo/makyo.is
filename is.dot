@@ -3,32 +3,36 @@ graph is {
     edge[color="#ffffff"]
     graph[bgcolor="#222222",label="",margin="0",rankdir="LR",ranksep=2.5]
 
-    copula [label="Madison Scott-Clary is...",fontcolor="#cc99ff",href="https://drab-makyo.com?pk_campaign=source&pk_kwd=makyo.is"]
+    copula [label="Madison Scott-Clary is...",fontcolor="#cc99ff",href="https://drab-makyo.com"]
 
     writing [label="Writing..."]
-    /* writing_anything [label="Anything",fontcolor="#cc99ff",href="https://writing.drab-makyo.com?pk_campaign=source&pk_kwd=makyo.is"] */
-    writing_ally [label="About herself",fontcolor="#cc99ff",href="https://ally.id?pk_campaign=source&pk_kwd=makyo.is"]
-    writing_portfolio [label="About everything",fontcolor="#cc99ff",href="https://makyo.ink?pk_campaign=source&pk_kwd=makyo.is"]
-    copula -- writing -- { /* writing_anything, */ writing_ally, writing_portfolio }
+    /* writing_anything [label="Anything",fontcolor="#cc99ff",href="https://writing.drab-makyo.com"] 
+     */
+    writing_ally [label="About herself",fontcolor="#cc99ff",href="https://ally.id"]
+    writing_portfolio [label="About everything",fontcolor="#cc99ff",href="https://makyo.ink"]
+    writing_substack [label="On Substack",fontcolor="#cc99ff",href="https://makyo.substack.com"]
+    copula -- writing -- { /* writing_anything, */ writing_ally, writing_portfolio, writing_substack }
 
     photography [label="Taking pictures..."]
-    photography_flickr [label="On Flickr",fontcolor="#cc99ff",href="https://flickr.com/photos/ranna"]
+    /* photography_flickr [label="On Flickr",fontcolor="#cc99ff",href="https://flickr.com/photos/ranna"]
+     */
     photography_portfolio [label="For her portfolio",fontcolor="#cc99ff",href="https://makyo.photography"]
-    copula -- photography -- { photography_flickr, photography_portfolio }
+    copula -- photography -- { /*photography_flickr,*/ photography_portfolio }
 
     programming [label="Programming..."]
     programming_github [label="On GitHub",fontcolor="#cc99ff",href="https://github.com/makyo"]
-    programming_launchpad [label="On Launchpad",fontcolor="#cc99ff",href="https://launchpad.net/~makyo"]
+    /* programming_launchpad [label="On Launchpad",fontcolor="#cc99ff",href="https://launchpad.net/~makyo"]
+     */
     programming_personal [label="Her own stuff",fontcolor="#cc99ff",href="https://makyo.dev"]
-    copula -- programming -- { programming_github, programming_launchpad, programming_personal }
+    copula -- programming -- { programming_github, /*programming_launchpad,*/ programming_personal }
 
     cooking [label="Cooking..."]
-    cooking_quietly [label="Quietly",fontcolor="#cc99ff",href="https://makyo.cooking?pk_campaign=source&pk_kwd=makyo.is"]
-    cooking_loudly [label="Loudly",fontcolor="#cc99ff",href="https://mealtime.with.maddypa.ws?pk_campaign=source&pk_kwd=makyo.is"]
+    cooking_quietly [label="Quietly",fontcolor="#cc99ff",href="https://makyo.cooking"]
+    cooking_loudly [label="Loudly",fontcolor="#cc99ff",href="https://mealtime.with.maddypa.ws"]
     copula -- cooking -- { cooking_quietly, cooking_loudly }
 
     composing [label="Composing..."]
-    composing_portfolio [label="For her portfolio",fontcolor="#cc99ff",href="https://sounds.drab-makyo.com?pk_campaign=source&pk_kwd=makyo.is"]
+    composing_portfolio [label="For her portfolio",fontcolor="#cc99ff",href="https://sounds.drab-makyo.com"]
     composing_bandcamp [label="On Bandcamp",fontcolor="#cc99ff",href="https://drab-makyo.bandcamp.com"]
     composing_soundcloud [label="On Soundcloud",fontcolor="#cc99ff",href="https://soundcloud.com/drabmakyo"]
     copula -- composing -- { composing_portfolio, composing_bandcamp, composing_soundcloud }
@@ -36,7 +40,8 @@ graph is {
     social [label="Being social..."]
     social_twitter [label="On Twitter",fontcolor="#cc99ff",href="https://twitter.com/makyo_writes"]
     social_mastodon [label="On Mastodon",fontcolor="#cc99ff",href="https://maddypa.ws/@makyo"]
-    copula -- social -- { social_twitter, social_mastodon }
+    social_cohost [label="On Cohost",fontcolor="#cc99ff",href="https://cohost.org/makyo"]
+    copula -- social -- { social_twitter, social_mastodon, social_cohost }
 
     talking [label="Talking..."]
     talking_email [label="Over email",fontcolor="#cc99ff",href="mailto:makyo@drab-makyo.com"]
@@ -48,14 +53,20 @@ graph is {
     copula -- talking -- { talking_email, talking_telegram, talking_discord, talking_phone /*, talking_matrix, talking_wire*/ }
 
     working [label="Working..."]
-    working_nvidia [label="At Nvidia",fontcolor="#cc99ff",href="https://nvidia.com"]
-    /* working_hybrid [label="At Hybrid Ink, LLC",fontcolor="#cc99ff",href="https://hybrid.ink?pk_campaign=source&pk_kwd=makyo.is"] */
-    copula -- working -- { /*working_hybrid, */ working_nvidia }
+    working_digitalocean [label="At DigitalOcean",fontcolor="#cc99ff",href="https://digitalocean.com"]
+    /* working_hybrid [label="At Hybrid Ink, LLC",fontcolor="#cc99ff",href="https://hybrid.ink"] 
+     */
+    copula -- working -- { /*working_hybrid, */ working_digitalocean }
 
     secure [label="Secure..."]
     secure_keybase [label="On Keybase",fontcolor="#cc99ff",href="https://keybase.io/makyo"]
     secure_everywhere [label="Everywhere",fontcolor="#cc99ff",href="https://drab-makyo.com/pgp"]
     copula -- secure -- { secure_everywhere, secure_keybase }
+
+    playing [label="Playing..."]
+    playing_youtube [label="On YouTube",fontcolor="#cc99ff",href="https://www.youtube.com/@ephahvix"]
+    playing_twitch [label="On Twitch",fontcolor="#cc99ff",href="https://twitch.tv/ephahvix"]
+    copula -- playing -- { playing_youtube, playing_twitch }
 
     patron [label="Seeking patronage..."]
     patron_patreon [label="On Patreon",fontcolor="#cc99ff",href="https://patreon.com/makyo"]
