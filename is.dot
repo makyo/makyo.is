@@ -39,8 +39,8 @@ graph is {
 
     social [label="Being social..."]
     social_twitter [label="On Twitter",fontcolor="#cc99ff",href="https://twitter.com/makyo_writes"]
-    social_mastodon [label="On Mastodon",fontcolor="#cc99ff",href="https://maddypa.ws/@makyo"]
     social_cohost [label="On Cohost",fontcolor="#cc99ff",href="https://cohost.org/makyo"]
+    social_mastodon [label="On Mastodon",fontcolor="#cc99ff",href="https://writing.exchange/@makyo"]
     copula -- social -- { social_twitter, social_mastodon, social_cohost }
 
     talking [label="Talking..."]
