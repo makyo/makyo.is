@@ -13,11 +13,10 @@ graph is {
     writing_substack [label="On Substack",fontcolor="#cc99ff",href="https://makyo.substack.com"]
     copula -- writing -- { /* writing_anything, */ writing_ally, writing_portfolio, writing_substack }
 
-    photography [label="Taking pictures..."]
-    /* photography_flickr [label="On Flickr",fontcolor="#cc99ff",href="https://flickr.com/photos/ranna"]
-     */
+    /*photography [label="Taking pictures..."]
+    photography_flickr [label="On Flickr",fontcolor="#cc99ff",href="https://flickr.com/photos/ranna"]
     photography_portfolio [label="For her portfolio",fontcolor="#cc99ff",href="https://makyo.photography"]
-    copula -- photography -- { /*photography_flickr,*/ photography_portfolio }
+    copula -- photography -- { photography_flickr, photography_portfolio }*/
 
     programming [label="Programming..."]
     programming_github [label="On GitHub",fontcolor="#cc99ff",href="https://github.com/makyo"]
@@ -27,9 +26,10 @@ graph is {
     copula -- programming -- { programming_github, /*programming_launchpad,*/ programming_personal }
 
     cooking [label="Cooking..."]
-    cooking_quietly [label="Quietly",fontcolor="#cc99ff",href="https://makyo.cooking"]
-    cooking_loudly [label="Loudly",fontcolor="#cc99ff",href="https://mealtime.with.maddypa.ws"]
-    copula -- cooking -- { cooking_quietly, cooking_loudly }
+    /*cooking_quietly [label="Quietly",fontcolor="#cc99ff",href="https://makyo.cooking"]
+     */
+    cooking_loudly [label="Loudly",fontcolor="#cc99ff",href="https://twitter.com/loudfood"]
+    copula -- cooking -- { /*cooking_quietly,*/ cooking_loudly }
 
     composing [label="Composing..."]
     composing_portfolio [label="For her portfolio",fontcolor="#cc99ff",href="https://sounds.drab-makyo.com"]
@@ -46,24 +46,23 @@ graph is {
     talking [label="Talking..."]
     talking_email [label="Over email",fontcolor="#cc99ff",href="mailto:makyo@drab-makyo.com"]
     talking_telegram [label="On Telegram",fontcolor="#cc99ff",href="https://t.me/DrabMakyo"]
-    talking_discord [label="On Discord",fontcolor="#cc99ff",href="/discord",title="Makyo#7093"]
+    talking_discord [label="On Discord",fontcolor="#cc99ff",href="https://discord.com/users/Makyo#7093",title="Makyo#7093"]
     /*talking_matrix [label="On Matrix",fontcolor="#cc99ff",href="https://matrix.to/#/@makyo:drab-makyo.com"]
     talking_wire [label="On Wire",fontcolor="#cc99ff",href="/wire",title="@makyo"]*/
     talking_phone [label="Over text 🔒 ",fontcolor="#cc99ff",href="tel:3038185943"]
     copula -- talking -- { talking_email, talking_telegram, talking_discord, talking_phone /*, talking_matrix, talking_wire*/ }
 
-    working [label="Working..."]
+    /*working [label="Working..."]
     working_digitalocean [label="At DigitalOcean",fontcolor="#cc99ff",href="https://digitalocean.com"]
-    /* working_hybrid [label="At Hybrid Ink, LLC",fontcolor="#cc99ff",href="https://hybrid.ink"] 
-     */
-    copula -- working -- { /*working_hybrid, */ working_digitalocean }
+    working_hybrid [label="At Hybrid Ink, LLC",fontcolor="#cc99ff",href="https://hybrid.ink"] 
+    copula -- working -- { working_hybrid, working_digitalocean }*/
 
     secure [label="Secure..."]
     secure_keybase [label="On Keybase",fontcolor="#cc99ff",href="https://keybase.io/makyo"]
     secure_everywhere [label="Everywhere",fontcolor="#cc99ff",href="https://drab-makyo.com/pgp"]
     copula -- secure -- { secure_everywhere, secure_keybase }
 
-    playing [label="Playing..."]
+    playing [label="Streaming..."]
     playing_youtube [label="On YouTube",fontcolor="#cc99ff",href="https://www.youtube.com/@ephahvix"]
     playing_twitch [label="On Twitch",fontcolor="#cc99ff",href="https://twitch.tv/ephahvix"]
     copula -- playing -- { playing_youtube, playing_twitch }
