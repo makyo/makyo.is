@@ -1,5 +1,5 @@
 .PHONY: all
-all: is.svg is.png is.json
+all: is.svg is.png is.json 
 
 is.svg: is.dot
 	twopi -Tsvg is.dot -o is.svg

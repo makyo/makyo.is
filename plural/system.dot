@@ -1,0 +1,72 @@
+graph plural {
+    node[shape="none" fontcolor="#ffffff" color="#ffffff" fontname="Ubuntu"];
+    edge[color="#ffffff" dir="none"];
+    graph[bgcolor="#222222" label="" margin="0" rankdir="LR" ranksep="3" compound="true" labelloc="b"];
+
+    system [label="Skunks&" fontcolor="#cc99ff" labelloc="c"];
+
+    slow [
+        href="#slow-hours"
+        image="thumbs/slow-hours.png"
+        height="2.36"
+        imagepos="tc"
+        labelloc="b"
+        label="Slow Hours"
+    ];
+    beholden [
+        href="#beholden"
+        image="thumbs/beholden.png"
+        height="2.36"
+        imagepos="tc"
+        labelloc="b"
+        label="Beholden"
+    ];
+    my [
+        href="#my"
+        image="thumbs/my.png"
+        height="2.36"
+        imagepos="tc"
+        labelloc="b"
+        label="Hold My Name"
+    ];
+    motes [
+        href="#motes"
+        image="thumbs/motes.png"
+        height="2.36"
+        imagepos="tc"
+        labelloc="b"
+        label="Motes"
+    ];
+    rye [
+        href="#rye"
+        image="thumbs/rye.png"
+        height="2.36"
+        imagepos="tc"
+        labelloc="b"
+        label="Rye"
+    ];
+    whatright 
+        [href="#what-right-have-i"
+        image="thumbs/what-right-have-i.png"
+        height="2.36"
+        imagepos="tc"
+        labelloc="b"
+        label="What Right Have I"
+    ];
+    drygrass [
+        href="#dry-grass"
+        image="thumbs/dry-grass.png"
+        height="2.36"
+        imagepos="tc"
+        labelloc="b"
+        label="Dry Grass"
+    ];
+
+    system -- slow;
+    system -- beholden;
+    system -- my;
+    system -- motes;
+    system -- rye;
+    system -- whatright;
+    system -- drygrass;
+}
