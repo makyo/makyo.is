@@ -1,5 +1,5 @@
 graph is {
-    node[shape="none",fontcolor="#ffffff",color="#ffffff",fontname="Helvetica bold"]
+    node[shape="none",fontcolor="#ffffff",color="#ffffff",fontname="Ubuntu"]
     edge[color="#ffffff"]
     graph[bgcolor="#222222",label="",margin="0",rankdir="LR",ranksep=2.5]
 
@@ -10,8 +10,8 @@ graph is {
      */
     writing_ally [label="About herself",fontcolor="#cc99ff",href="https://ally.id"]
     writing_portfolio [label="About everything",fontcolor="#cc99ff",href="https://makyo.ink"]
-    writing_substack [label="On Substack",fontcolor="#cc99ff",href="https://makyo.substack.com"]
-    copula -- writing -- { /* writing_anything, */ writing_ally, writing_portfolio, writing_substack }
+    writing_postself [label="Post-Self",fontcolor="#cc99ff",href="https://post-self.ink"]
+    copula -- writing -- { /* writing_anything, */ writing_ally, writing_portfolio, writing_postself }
 
     /*photography [label="Taking pictures..."]
     photography_flickr [label="On Flickr",fontcolor="#cc99ff",href="https://flickr.com/photos/ranna"]
@@ -40,8 +40,9 @@ graph is {
     social [label="Being social..."]
     social_twitter [label="On Twitter",fontcolor="#cc99ff",href="https://twitter.com/makyo_writes"]
     social_cohost [label="On Cohost",fontcolor="#cc99ff",href="https://cohost.org/makyo"]
-    social_mastodon [label="On Mastodon",fontcolor="#cc99ff",href="https://writing.exchange/@makyo"]
-    copula -- social -- { social_twitter, social_mastodon, social_cohost }
+    social_mastodon [label="On Mastodon",fontcolor="#cc99ff",href="https://awoo.space/@makyo"]
+    social_bluesky [label="On Bluesky",fontcolor="#cc99ff",href="https://bsky.app/profile/makyo.bsky.social"]
+    copula -- social -- { social_twitter, social_mastodon, social_cohost, social_bluesky }
 
     talking [label="Talking..."]
     talking_email [label="Over email",fontcolor="#cc99ff",href="mailto:makyo@drab-makyo.com"]

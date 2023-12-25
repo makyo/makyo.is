@@ -16,10 +16,10 @@
     },
     {
       "op": "P",
-      "points": [[0.000,0.000],[0.000,753.990],[810.980,753.990],[810.980,0.000]]
+      "points": [[0.000,0.000],[0.000,756.000],[815.670,756.000],[815.670,0.000]]
     }
   ],
-  "bb": "0,0,810.98,753.99",
+  "bb": "0,0,815.67,756",
   "bgcolor": "#222222",
   "label": "",
   "margin": "0",
@@ -85,11 +85,11 @@
       "ranksep": "2.5",
       "_gvid": 4,
       "nodes": [
-        24,25,26
+        24,25,26,27
       ]
     },
     {
-      "name": "%47",
+      "name": "%49",
       "bgcolor": "#222222",
       "label": "",
       "margin": "0",
@@ -97,11 +97,11 @@
       "ranksep": "2.5",
       "_gvid": 5,
       "nodes": [
-        28,29,30,31
+        29,30,31,32
       ]
     },
     {
-      "name": "%59",
+      "name": "%61",
       "bgcolor": "#222222",
       "label": "",
       "margin": "0",
@@ -109,11 +109,11 @@
       "ranksep": "2.5",
       "_gvid": 6,
       "nodes": [
-        33,34
+        34,35
       ]
     },
     {
-      "name": "%67",
+      "name": "%69",
       "bgcolor": "#222222",
       "label": "",
       "margin": "0",
@@ -121,11 +121,11 @@
       "ranksep": "2.5",
       "_gvid": 7,
       "nodes": [
-        36,37
+        37,38
       ]
     },
     {
-      "name": "%75",
+      "name": "%77",
       "bgcolor": "#222222",
       "label": "",
       "margin": "0",
@@ -133,7 +133,7 @@
       "ranksep": "2.5",
       "_gvid": 8,
       "nodes": [
-        39
+        40
       ]
     },
     {
@@ -144,7 +144,7 @@
         {
           "op": "F",
           "size": 14.000,
-          "face": "Helvetica bold"
+          "face": "Ubuntu"
         },
         {
           "op": "c",
@@ -153,21 +153,21 @@
         },
         {
           "op": "T",
-          "pt": [403.000,373.290],
+          "pt": [407.840,374.300],
           "align": "c",
-          "width": 160.000,
+          "width": 152.000,
           "text": "Madison Scott-Clary is..."
         }
       ],
       "color": "#ffffff",
       "fontcolor": "#cc99ff",
-      "fontname": "Helvetica bold",
+      "fontname": "Ubuntu",
       "height": "0.5",
       "href": "https:\/\/drab-makyo.com",
       "label": "Madison Scott-Clary is...",
-      "pos": "403,376.99",
+      "pos": "407.84,378",
       "shape": "none",
-      "width": "2.4444"
+      "width": "2.3333"
     },
     {
       "_gvid": 10,
@@ -177,7 +177,7 @@
         {
           "op": "F",
           "size": 14.000,
-          "face": "Helvetica bold"
+          "face": "Ubuntu"
         },
         {
           "op": "c",
@@ -186,20 +186,20 @@
         },
         {
           "op": "T",
-          "pt": [565.170,451.390],
+          "pt": [571.570,449.070],
           "align": "c",
-          "width": 58.000,
+          "width": 60.000,
           "text": "Writing..."
         }
       ],
       "color": "#ffffff",
       "fontcolor": "#ffffff",
-      "fontname": "Helvetica bold",
+      "fontname": "Ubuntu",
       "height": "0.5",
       "label": "Writing...",
-      "pos": "565.17,455.09",
+      "pos": "571.57,452.77",
       "shape": "none",
-      "width": "1.0278"
+      "width": "1.0556"
     },
     {
       "_gvid": 11,
@@ -209,7 +209,7 @@
         {
           "op": "F",
           "size": 14.000,
-          "face": "Helvetica bold"
+          "face": "Ubuntu"
         },
         {
           "op": "c",
@@ -218,21 +218,21 @@
         },
         {
           "op": "T",
-          "pt": [758.980,426.950],
+          "pt": [764.170,425.530],
           "align": "c",
-          "width": 88.000,
+          "width": 87.000,
           "text": "About herself"
         }
       ],
       "color": "#ffffff",
       "fontcolor": "#cc99ff",
-      "fontname": "Helvetica bold",
+      "fontname": "Ubuntu",
       "height": "0.5",
       "href": "https:\/\/ally.id",
       "label": "About herself",
-      "pos": "758.98,430.65",
+      "pos": "764.17,429.23",
       "shape": "none",
-      "width": "1.4444"
+      "width": "1.4306"
     },
     {
       "_gvid": 12,
@@ -242,7 +242,7 @@
         {
           "op": "F",
           "size": 14.000,
-          "face": "Helvetica bold"
+          "face": "Ubuntu"
         },
         {
           "op": "c",
@@ -251,7 +251,7 @@
         },
         {
           "op": "T",
-          "pt": [727.350,529.490],
+          "pt": [735.300,523.850],
           "align": "c",
           "width": 112.000,
           "text": "About everything"
@@ -259,23 +259,23 @@
       ],
       "color": "#ffffff",
       "fontcolor": "#cc99ff",
-      "fontname": "Helvetica bold",
+      "fontname": "Ubuntu",
       "height": "0.5",
       "href": "https:\/\/makyo.ink",
       "label": "About everything",
-      "pos": "727.35,533.19",
+      "pos": "735.3,527.55",
       "shape": "none",
       "width": "1.7778"
     },
     {
       "_gvid": 13,
-      "name": "writing_substack",
+      "name": "writing_postself",
       "_ldraw_": 
       [
         {
           "op": "F",
           "size": 14.000,
-          "face": "Helvetica bold"
+          "face": "Ubuntu"
         },
         {
           "op": "c",
@@ -284,21 +284,21 @@
         },
         {
           "op": "T",
-          "pt": [666.900,618.160],
+          "pt": [679.910,610.050],
           "align": "c",
-          "width": 84.000,
-          "text": "On Substack"
+          "width": 57.000,
+          "text": "Post-Self"
         }
       ],
       "color": "#ffffff",
       "fontcolor": "#cc99ff",
-      "fontname": "Helvetica bold",
+      "fontname": "Ubuntu",
       "height": "0.5",
-      "href": "https:\/\/makyo.substack.com",
-      "label": "On Substack",
-      "pos": "666.9,621.86",
+      "href": "https:\/\/post-self.ink",
+      "label": "Post-Self",
+      "pos": "679.91,613.75",
       "shape": "none",
-      "width": "1.3889"
+      "width": "1.0139"
     },
     {
       "_gvid": 14,
@@ -308,7 +308,7 @@
         {
           "op": "F",
           "size": 14.000,
-          "face": "Helvetica bold"
+          "face": "Ubuntu"
         },
         {
           "op": "c",
@@ -317,20 +317,20 @@
         },
         {
           "op": "T",
-          "pt": [468.760,540.850],
+          "pt": [482.610,538.030],
           "align": "c",
-          "width": 101.000,
+          "width": 99.000,
           "text": "Programming..."
         }
       ],
       "color": "#ffffff",
       "fontcolor": "#ffffff",
-      "fontname": "Helvetica bold",
+      "fontname": "Ubuntu",
       "height": "0.5",
       "label": "Programming...",
-      "pos": "468.76,544.55",
+      "pos": "482.61,541.73",
       "shape": "none",
-      "width": "1.625"
+      "width": "1.5972"
     },
     {
       "_gvid": 15,
@@ -340,7 +340,7 @@
         {
           "op": "F",
           "size": 14.000,
-          "face": "Helvetica bold"
+          "face": "Ubuntu"
         },
         {
           "op": "c",
@@ -349,21 +349,21 @@
         },
         {
           "op": "T",
-          "pt": [583.000,685.060],
+          "pt": [602.470,677.150],
           "align": "c",
-          "width": 70.000,
+          "width": 69.000,
           "text": "On GitHub"
         }
       ],
       "color": "#ffffff",
       "fontcolor": "#cc99ff",
-      "fontname": "Helvetica bold",
+      "fontname": "Ubuntu",
       "height": "0.5",
       "href": "https:\/\/github.com\/makyo",
       "label": "On GitHub",
-      "pos": "583,688.76",
+      "pos": "602.47,680.85",
       "shape": "none",
-      "width": "1.1944"
+      "width": "1.1806"
     },
     {
       "_gvid": 16,
@@ -373,7 +373,7 @@
         {
           "op": "F",
           "size": 14.000,
-          "face": "Helvetica bold"
+          "face": "Ubuntu"
         },
         {
           "op": "c",
@@ -382,7 +382,7 @@
         },
         {
           "op": "T",
-          "pt": [483.110,724.270],
+          "pt": [509.260,719.720],
           "align": "c",
           "width": 88.000,
           "text": "Her own stuff"
@@ -390,11 +390,11 @@
       ],
       "color": "#ffffff",
       "fontcolor": "#cc99ff",
-      "fontname": "Helvetica bold",
+      "fontname": "Ubuntu",
       "height": "0.5",
       "href": "https:\/\/makyo.dev",
       "label": "Her own stuff",
-      "pos": "483.11,727.97",
+      "pos": "509.26,723.42",
       "shape": "none",
       "width": "1.4444"
     },
@@ -406,7 +406,7 @@
         {
           "op": "F",
           "size": 14.000,
-          "face": "Helvetica bold"
+          "face": "Ubuntu"
         },
         {
           "op": "c",
@@ -415,20 +415,20 @@
         },
         {
           "op": "T",
-          "pt": [389.550,552.790],
+          "pt": [407.840,554.300],
           "align": "c",
-          "width": 66.000,
+          "width": 64.000,
           "text": "Cooking..."
         }
       ],
       "color": "#ffffff",
       "fontcolor": "#ffffff",
-      "fontname": "Helvetica bold",
+      "fontname": "Ubuntu",
       "height": "0.5",
       "label": "Cooking...",
-      "pos": "389.55,556.49",
+      "pos": "407.84,558",
       "shape": "none",
-      "width": "1.1389"
+      "width": "1.1111"
     },
     {
       "_gvid": 18,
@@ -438,7 +438,7 @@
         {
           "op": "F",
           "size": 14.000,
-          "face": "Helvetica bold"
+          "face": "Ubuntu"
         },
         {
           "op": "c",
@@ -447,21 +447,21 @@
         },
         {
           "op": "T",
-          "pt": [376.100,732.290],
+          "pt": [407.840,734.300],
           "align": "c",
-          "width": 45.000,
+          "width": 43.000,
           "text": "Loudly"
         }
       ],
       "color": "#ffffff",
       "fontcolor": "#cc99ff",
-      "fontname": "Helvetica bold",
+      "fontname": "Ubuntu",
       "height": "0.5",
       "href": "https:\/\/twitter.com\/loudfood",
       "label": "Loudly",
-      "pos": "376.1,735.99",
+      "pos": "407.84,738",
       "shape": "none",
-      "width": "0.84722"
+      "width": "0.81944"
     },
     {
       "_gvid": 19,
@@ -471,7 +471,7 @@
         {
           "op": "F",
           "size": 14.000,
-          "face": "Helvetica bold"
+          "face": "Ubuntu"
         },
         {
           "op": "c",
@@ -480,20 +480,20 @@
         },
         {
           "op": "T",
-          "pt": [290.770,514.020],
+          "pt": [310.520,525.730],
           "align": "c",
-          "width": 87.000,
+          "width": 83.000,
           "text": "Composing..."
         }
       ],
       "color": "#ffffff",
       "fontcolor": "#ffffff",
-      "fontname": "Helvetica bold",
+      "fontname": "Ubuntu",
       "height": "0.5",
       "label": "Composing...",
-      "pos": "290.77,517.72",
+      "pos": "310.52,529.43",
       "shape": "none",
-      "width": "1.4306"
+      "width": "1.375"
     },
     {
       "_gvid": 20,
@@ -503,7 +503,7 @@
         {
           "op": "F",
           "size": 14.000,
-          "face": "Helvetica bold"
+          "face": "Ubuntu"
         },
         {
           "op": "c",
@@ -512,7 +512,7 @@
         },
         {
           "op": "T",
-          "pt": [271.480,708.410],
+          "pt": [306.410,719.720],
           "align": "c",
           "width": 106.000,
           "text": "For her portfolio"
@@ -520,11 +520,11 @@
       ],
       "color": "#ffffff",
       "fontcolor": "#cc99ff",
-      "fontname": "Helvetica bold",
+      "fontname": "Ubuntu",
       "height": "0.5",
       "href": "https:\/\/sounds.drab-makyo.com",
       "label": "For her portfolio",
-      "pos": "271.48,712.11",
+      "pos": "306.41,723.42",
       "shape": "none",
       "width": "1.6944"
     },
@@ -536,7 +536,7 @@
         {
           "op": "F",
           "size": 14.000,
-          "face": "Helvetica bold"
+          "face": "Ubuntu"
         },
         {
           "op": "c",
@@ -545,21 +545,21 @@
         },
         {
           "op": "T",
-          "pt": [178.540,654.750],
+          "pt": [213.210,677.150],
           "align": "c",
-          "width": 94.000,
+          "width": 91.000,
           "text": "On Bandcamp"
         }
       ],
       "color": "#ffffff",
       "fontcolor": "#cc99ff",
-      "fontname": "Helvetica bold",
+      "fontname": "Ubuntu",
       "height": "0.5",
       "href": "https:\/\/drab-makyo.bandcamp.com",
       "label": "On Bandcamp",
-      "pos": "178.54,658.45",
+      "pos": "213.21,680.85",
       "shape": "none",
-      "width": "1.5278"
+      "width": "1.4861"
     },
     {
       "_gvid": 22,
@@ -569,7 +569,7 @@
         {
           "op": "F",
           "size": 14.000,
-          "face": "Helvetica bold"
+          "face": "Ubuntu"
         },
         {
           "op": "c",
@@ -578,21 +578,21 @@
         },
         {
           "op": "T",
-          "pt": [105.550,576.090],
+          "pt": [135.770,610.050],
           "align": "c",
-          "width": 103.000,
+          "width": 99.000,
           "text": "On Soundcloud"
         }
       ],
       "color": "#ffffff",
       "fontcolor": "#cc99ff",
-      "fontname": "Helvetica bold",
+      "fontname": "Ubuntu",
       "height": "0.5",
       "href": "https:\/\/soundcloud.com\/drabmakyo",
       "label": "On Soundcloud",
-      "pos": "105.55,579.79",
+      "pos": "135.77,613.75",
       "shape": "none",
-      "width": "1.6528"
+      "width": "1.5972"
     },
     {
       "_gvid": 23,
@@ -602,7 +602,7 @@
         {
           "op": "F",
           "size": 14.000,
-          "face": "Helvetica bold"
+          "face": "Ubuntu"
         },
         {
           "op": "c",
@@ -611,20 +611,20 @@
         },
         {
           "op": "T",
-          "pt": [223.000,373.290],
+          "pt": [227.840,374.300],
           "align": "c",
-          "width": 91.000,
+          "width": 88.000,
           "text": "Being social..."
         }
       ],
       "color": "#ffffff",
       "fontcolor": "#ffffff",
-      "fontname": "Helvetica bold",
+      "fontname": "Ubuntu",
       "height": "0.5",
       "label": "Being social...",
-      "pos": "223,376.99",
+      "pos": "227.84,378",
       "shape": "none",
-      "width": "1.4861"
+      "width": "1.4444"
     },
     {
       "_gvid": 24,
@@ -634,7 +634,7 @@
         {
           "op": "F",
           "size": 14.000,
-          "face": "Helvetica bold"
+          "face": "Ubuntu"
         },
         {
           "op": "c",
@@ -643,21 +643,21 @@
         },
         {
           "op": "T",
-          "pt": [58.990,479.410],
+          "pt": [80.370,523.850],
           "align": "c",
-          "width": 68.000,
+          "width": 69.000,
           "text": "On Twitter"
         }
       ],
       "color": "#ffffff",
       "fontcolor": "#cc99ff",
-      "fontname": "Helvetica bold",
+      "fontname": "Ubuntu",
       "height": "0.5",
       "href": "https:\/\/twitter.com\/makyo_writes",
       "label": "On Twitter",
-      "pos": "58.994,483.11",
+      "pos": "80.368,527.55",
       "shape": "none",
-      "width": "1.1667"
+      "width": "1.1806"
     },
     {
       "_gvid": 25,
@@ -667,7 +667,7 @@
         {
           "op": "F",
           "size": 14.000,
-          "face": "Helvetica bold"
+          "face": "Ubuntu"
         },
         {
           "op": "c",
@@ -676,21 +676,21 @@
         },
         {
           "op": "T",
-          "pt": [43.000,373.290],
+          "pt": [51.500,425.530],
           "align": "c",
-          "width": 70.000,
+          "width": 68.000,
           "text": "On Cohost"
         }
       ],
       "color": "#ffffff",
       "fontcolor": "#cc99ff",
-      "fontname": "Helvetica bold",
+      "fontname": "Ubuntu",
       "height": "0.5",
       "href": "https:\/\/cohost.org\/makyo",
       "label": "On Cohost",
-      "pos": "43,376.99",
+      "pos": "51.5,429.23",
       "shape": "none",
-      "width": "1.1944"
+      "width": "1.1667"
     },
     {
       "_gvid": 26,
@@ -700,7 +700,7 @@
         {
           "op": "F",
           "size": 14.000,
-          "face": "Helvetica bold"
+          "face": "Ubuntu"
         },
         {
           "op": "c",
@@ -709,31 +709,64 @@
         },
         {
           "op": "T",
-          "pt": [58.990,267.180],
+          "pt": [51.500,323.070],
           "align": "c",
-          "width": 88.000,
+          "width": 87.000,
           "text": "On Mastodon"
         }
       ],
       "color": "#ffffff",
       "fontcolor": "#cc99ff",
-      "fontname": "Helvetica bold",
+      "fontname": "Ubuntu",
       "height": "0.5",
-      "href": "https:\/\/writing.exchange\/@makyo",
+      "href": "https:\/\/awoo.space\/@makyo",
       "label": "On Mastodon",
-      "pos": "58.994,270.88",
+      "pos": "51.5,326.77",
       "shape": "none",
-      "width": "1.4444"
+      "width": "1.4306"
     },
     {
       "_gvid": 27,
+      "name": "social_bluesky",
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Ubuntu"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#cc99ff"
+        },
+        {
+          "op": "T",
+          "pt": [80.370,224.750],
+          "align": "c",
+          "width": 72.000,
+          "text": "On Bluesky"
+        }
+      ],
+      "color": "#ffffff",
+      "fontcolor": "#cc99ff",
+      "fontname": "Ubuntu",
+      "height": "0.5",
+      "href": "https:\/\/bsky.app\/profile\/makyo.bsky.social",
+      "label": "On Bluesky",
+      "pos": "80.368,228.45",
+      "shape": "none",
+      "width": "1.2222"
+    },
+    {
+      "_gvid": 28,
       "name": "talking",
       "_ldraw_": 
       [
         {
           "op": "F",
           "size": 14.000,
-          "face": "Helvetica bold"
+          "face": "Ubuntu"
         },
         {
           "op": "c",
@@ -742,7 +775,7 @@
         },
         {
           "op": "T",
-          "pt": [313.000,217.410],
+          "pt": [333.060,210.570],
           "align": "c",
           "width": 58.000,
           "text": "Talking..."
@@ -750,22 +783,22 @@
       ],
       "color": "#ffffff",
       "fontcolor": "#ffffff",
-      "fontname": "Helvetica bold",
+      "fontname": "Ubuntu",
       "height": "0.5",
       "label": "Talking...",
-      "pos": "313,221.11",
+      "pos": "333.06,214.27",
       "shape": "none",
       "width": "1.0278"
     },
     {
-      "_gvid": 28,
+      "_gvid": 29,
       "name": "talking_email",
       "_ldraw_": 
       [
         {
           "op": "F",
           "size": 14.000,
-          "face": "Helvetica bold"
+          "face": "Ubuntu"
         },
         {
           "op": "c",
@@ -774,31 +807,31 @@
         },
         {
           "op": "T",
-          "pt": [105.550,170.500],
+          "pt": [135.770,138.550],
           "align": "c",
-          "width": 70.000,
+          "width": 69.000,
           "text": "Over email"
         }
       ],
       "color": "#ffffff",
       "fontcolor": "#cc99ff",
-      "fontname": "Helvetica bold",
+      "fontname": "Ubuntu",
       "height": "0.5",
       "href": "mailto:makyo@drab-makyo.com",
       "label": "Over email",
-      "pos": "105.55,174.2",
+      "pos": "135.77,142.25",
       "shape": "none",
-      "width": "1.1944"
+      "width": "1.1806"
     },
     {
-      "_gvid": 29,
+      "_gvid": 30,
       "name": "talking_telegram",
       "_ldraw_": 
       [
         {
           "op": "F",
           "size": 14.000,
-          "face": "Helvetica bold"
+          "face": "Ubuntu"
         },
         {
           "op": "c",
@@ -807,31 +840,31 @@
         },
         {
           "op": "T",
-          "pt": [178.540,91.830],
+          "pt": [213.210,71.450],
           "align": "c",
-          "width": 84.000,
+          "width": 82.000,
           "text": "On Telegram"
         }
       ],
       "color": "#ffffff",
       "fontcolor": "#cc99ff",
-      "fontname": "Helvetica bold",
+      "fontname": "Ubuntu",
       "height": "0.5",
       "href": "https:\/\/t.me\/DrabMakyo",
       "label": "On Telegram",
-      "pos": "178.54,95.534",
+      "pos": "213.21,75.149",
       "shape": "none",
-      "width": "1.3889"
+      "width": "1.3611"
     },
     {
-      "_gvid": 30,
+      "_gvid": 31,
       "name": "talking_discord",
       "_ldraw_": 
       [
         {
           "op": "F",
           "size": 14.000,
-          "face": "Helvetica bold"
+          "face": "Ubuntu"
         },
         {
           "op": "c",
@@ -840,32 +873,32 @@
         },
         {
           "op": "T",
-          "pt": [271.480,38.180],
+          "pt": [306.410,28.880],
           "align": "c",
-          "width": 74.000,
+          "width": 70.000,
           "text": "On Discord"
         }
       ],
       "color": "#ffffff",
       "fontcolor": "#cc99ff",
-      "fontname": "Helvetica bold",
+      "fontname": "Ubuntu",
       "height": "0.5",
       "href": "https:\/\/discord.com\/users\/Makyo#7093",
       "label": "On Discord",
-      "pos": "271.48,41.879",
+      "pos": "306.41,32.583",
       "shape": "none",
       "title": "Makyo#7093",
-      "width": "1.25"
+      "width": "1.1944"
     },
     {
-      "_gvid": 31,
+      "_gvid": 32,
       "name": "talking_phone",
       "_ldraw_": 
       [
         {
           "op": "F",
           "size": 14.000,
-          "face": "Helvetica bold"
+          "face": "Ubuntu"
         },
         {
           "op": "c",
@@ -874,7 +907,7 @@
         },
         {
           "op": "T",
-          "pt": [376.100,14.300],
+          "pt": [407.840,14.300],
           "align": "c",
           "width": 84.000,
           "text": "Over text 🔒 "
@@ -882,23 +915,23 @@
       ],
       "color": "#ffffff",
       "fontcolor": "#cc99ff",
-      "fontname": "Helvetica bold",
+      "fontname": "Ubuntu",
       "height": "0.5",
       "href": "tel:3038185943",
       "label": "Over text 🔒 ",
-      "pos": "376.1,18",
+      "pos": "407.84,18",
       "shape": "none",
       "width": "1.3889"
     },
     {
-      "_gvid": 32,
+      "_gvid": 33,
       "name": "secure",
       "_ldraw_": 
       [
         {
           "op": "F",
           "size": 14.000,
-          "face": "Helvetica bold"
+          "face": "Ubuntu"
         },
         {
           "op": "c",
@@ -907,30 +940,30 @@
         },
         {
           "op": "T",
-          "pt": [468.760,205.740],
+          "pt": [482.610,210.570],
           "align": "c",
-          "width": 58.000,
+          "width": 55.000,
           "text": "Secure..."
         }
       ],
       "color": "#ffffff",
       "fontcolor": "#ffffff",
-      "fontname": "Helvetica bold",
+      "fontname": "Ubuntu",
       "height": "0.5",
       "label": "Secure...",
-      "pos": "468.76,209.44",
+      "pos": "482.61,214.27",
       "shape": "none",
-      "width": "1.0278"
+      "width": "0.98611"
     },
     {
-      "_gvid": 33,
+      "_gvid": 34,
       "name": "secure_keybase",
       "_ldraw_": 
       [
         {
           "op": "F",
           "size": 14.000,
-          "face": "Helvetica bold"
+          "face": "Ubuntu"
         },
         {
           "op": "c",
@@ -939,31 +972,31 @@
         },
         {
           "op": "T",
-          "pt": [483.110,22.320],
+          "pt": [509.260,28.880],
           "align": "c",
-          "width": 79.000,
+          "width": 75.000,
           "text": "On Keybase"
         }
       ],
       "color": "#ffffff",
       "fontcolor": "#cc99ff",
-      "fontname": "Helvetica bold",
+      "fontname": "Ubuntu",
       "height": "0.5",
       "href": "https:\/\/keybase.io\/makyo",
       "label": "On Keybase",
-      "pos": "483.11,26.019",
+      "pos": "509.26,32.583",
       "shape": "none",
-      "width": "1.3194"
+      "width": "1.2639"
     },
     {
-      "_gvid": 34,
+      "_gvid": 35,
       "name": "secure_everywhere",
       "_ldraw_": 
       [
         {
           "op": "F",
           "size": 14.000,
-          "face": "Helvetica bold"
+          "face": "Ubuntu"
         },
         {
           "op": "c",
@@ -972,31 +1005,31 @@
         },
         {
           "op": "T",
-          "pt": [583.000,61.520],
+          "pt": [602.470,71.450],
           "align": "c",
-          "width": 78.000,
+          "width": 75.000,
           "text": "Everywhere"
         }
       ],
       "color": "#ffffff",
       "fontcolor": "#cc99ff",
-      "fontname": "Helvetica bold",
+      "fontname": "Ubuntu",
       "height": "0.5",
       "href": "https:\/\/drab-makyo.com\/pgp",
       "label": "Everywhere",
-      "pos": "583,65.224",
+      "pos": "602.47,75.149",
       "shape": "none",
-      "width": "1.3056"
+      "width": "1.2639"
     },
     {
-      "_gvid": 35,
+      "_gvid": 36,
       "name": "playing",
       "_ldraw_": 
       [
         {
           "op": "F",
           "size": 14.000,
-          "face": "Helvetica bold"
+          "face": "Ubuntu"
         },
         {
           "op": "c",
@@ -1005,30 +1038,30 @@
         },
         {
           "op": "T",
-          "pt": [551.720,271.900],
+          "pt": [559.260,276.980],
           "align": "c",
-          "width": 79.000,
+          "width": 78.000,
           "text": "Streaming..."
         }
       ],
       "color": "#ffffff",
       "fontcolor": "#ffffff",
-      "fontname": "Helvetica bold",
+      "fontname": "Ubuntu",
       "height": "0.5",
       "label": "Streaming...",
-      "pos": "551.72,275.6",
+      "pos": "559.26,280.68",
       "shape": "none",
-      "width": "1.3194"
+      "width": "1.3056"
     },
     {
-      "_gvid": 36,
+      "_gvid": 37,
       "name": "playing_youtube",
       "_ldraw_": 
       [
         {
           "op": "F",
           "size": 14.000,
-          "face": "Helvetica bold"
+          "face": "Ubuntu"
         },
         {
           "op": "c",
@@ -1037,31 +1070,31 @@
         },
         {
           "op": "T",
-          "pt": [666.900,128.430],
+          "pt": [679.910,138.550],
           "align": "c",
-          "width": 80.000,
+          "width": 79.000,
           "text": "On YouTube"
         }
       ],
       "color": "#ffffff",
       "fontcolor": "#cc99ff",
-      "fontname": "Helvetica bold",
+      "fontname": "Ubuntu",
       "height": "0.5",
       "href": "https:\/\/www.youtube.com\/@ephahvix",
       "label": "On YouTube",
-      "pos": "666.9,132.13",
+      "pos": "679.91,142.25",
       "shape": "none",
-      "width": "1.3333"
+      "width": "1.3194"
     },
     {
-      "_gvid": 37,
+      "_gvid": 38,
       "name": "playing_twitch",
       "_ldraw_": 
       [
         {
           "op": "F",
           "size": 14.000,
-          "face": "Helvetica bold"
+          "face": "Ubuntu"
         },
         {
           "op": "c",
@@ -1070,31 +1103,31 @@
         },
         {
           "op": "T",
-          "pt": [727.350,217.100],
+          "pt": [735.300,224.750],
           "align": "c",
-          "width": 67.000,
+          "width": 65.000,
           "text": "On Twitch"
         }
       ],
       "color": "#ffffff",
       "fontcolor": "#cc99ff",
-      "fontname": "Helvetica bold",
+      "fontname": "Ubuntu",
       "height": "0.5",
       "href": "https:\/\/twitch.tv\/ephahvix",
       "label": "On Twitch",
-      "pos": "727.35,220.8",
+      "pos": "735.3,228.45",
       "shape": "none",
-      "width": "1.1528"
+      "width": "1.125"
     },
     {
-      "_gvid": 38,
+      "_gvid": 39,
       "name": "patron",
       "_ldraw_": 
       [
         {
           "op": "F",
           "size": 14.000,
-          "face": "Helvetica bold"
+          "face": "Ubuntu"
         },
         {
           "op": "c",
@@ -1103,30 +1136,30 @@
         },
         {
           "op": "T",
-          "pt": [580.990,346.470],
+          "pt": [586.000,348.680],
           "align": "c",
-          "width": 133.000,
+          "width": 132.000,
           "text": "Seeking patronage..."
         }
       ],
       "color": "#ffffff",
       "fontcolor": "#ffffff",
-      "fontname": "Helvetica bold",
+      "fontname": "Ubuntu",
       "height": "0.5",
       "label": "Seeking patronage...",
-      "pos": "580.99,350.17",
+      "pos": "586,352.38",
       "shape": "none",
-      "width": "2.0694"
+      "width": "2.0556"
     },
     {
-      "_gvid": 39,
+      "_gvid": 40,
       "name": "patron_patreon",
       "_ldraw_": 
       [
         {
           "op": "F",
           "size": 14.000,
-          "face": "Helvetica bold"
+          "face": "Ubuntu"
         },
         {
           "op": "c",
@@ -1135,7 +1168,7 @@
         },
         {
           "op": "T",
-          "pt": [758.980,319.640],
+          "pt": [764.170,323.070],
           "align": "c",
           "width": 74.000,
           "text": "On Patreon"
@@ -1143,11 +1176,11 @@
       ],
       "color": "#ffffff",
       "fontcolor": "#cc99ff",
-      "fontname": "Helvetica bold",
+      "fontname": "Ubuntu",
       "height": "0.5",
       "href": "https:\/\/patreon.com\/makyo",
       "label": "On Patreon",
-      "pos": "758.98,323.34",
+      "pos": "764.17,326.77",
       "shape": "none",
       "width": "1.25"
     }
@@ -1166,11 +1199,11 @@
         },
         {
           "op": "b",
-          "points": [[440.610,395.110],[466.910,407.770],[501.860,424.600],[528.040,437.210]]
+          "points": [[447.470,396.100],[473.590,408.030],[507.610,423.570],[533.430,435.360]]
         }
       ],
       "color": "#ffffff",
-      "pos": "440.61,395.11 466.91,407.77 501.86,424.6 528.04,437.21"
+      "pos": "447.47,396.1 473.59,408.03 507.61,423.57 533.43,435.36"
     },
     {
       "_gvid": 1,
@@ -1185,11 +1218,11 @@
         },
         {
           "op": "b",
-          "points": [[410.160,395.240],[422.810,427.480],[448.960,494.110],[461.610,526.320]]
+          "points": [[416.120,396.150],[430.500,427.620],[459.890,491.970],[474.290,523.500]]
         }
       ],
       "color": "#ffffff",
-      "pos": "410.16,395.24 422.81,427.48 448.96,494.11 461.61,526.32"
+      "pos": "416.12,396.15 430.5,427.62 459.89,491.97 474.29,523.5"
     },
     {
       "_gvid": 2,
@@ -1204,11 +1237,11 @@
         },
         {
           "op": "b",
-          "points": [[401.640,395.190],[399.060,429.600],[393.500,503.800],[390.920,538.240]]
+          "points": [[407.840,396.250],[407.840,430.840],[407.840,505.550],[407.840,539.970]]
         }
       ],
       "color": "#ffffff",
-      "pos": "401.64,395.19 399.06,429.6 393.5,503.8 390.92,538.24"
+      "pos": "407.84,396.25 407.84,430.84 407.84,505.55 407.84,539.97"
     },
     {
       "_gvid": 3,
@@ -1223,11 +1256,11 @@
         },
         {
           "op": "b",
-          "points": [[388.560,395.100],[367.010,422.130],[326.680,472.700],[305.160,499.680]]
+          "points": [[396.100,396.270],[377.390,425.370],[341.030,481.950],[322.300,511.100]]
         }
       ],
       "color": "#ffffff",
-      "pos": "388.56,395.1 367.01,422.13 326.68,472.7 305.16,499.68"
+      "pos": "396.1,396.27 377.39,425.37 341.03,481.95 322.3,511.1"
     },
     {
       "_gvid": 4,
@@ -1242,16 +1275,16 @@
         },
         {
           "op": "b",
-          "points": [[314.850,376.990],[301.840,376.990],[288.780,376.990],[276.760,376.990]]
+          "points": [[323.630,378.000],[308.720,378.000],[293.590,378.000],[279.900,378.000]]
         }
       ],
       "color": "#ffffff",
-      "pos": "314.85,376.99 301.84,376.99 288.78,376.99 276.76,376.99"
+      "pos": "323.63,378 308.72,378 293.59,378 279.9,378"
     },
     {
       "_gvid": 5,
       "tail": 9,
-      "head": 27,
+      "head": 28,
       "_draw_": 
       [
         {
@@ -1261,16 +1294,16 @@
         },
         {
           "op": "b",
-          "points": [[392.500,358.810],[375.160,328.770],[340.730,269.140],[323.430,239.180]]
+          "points": [[399.550,359.850],[385.170,328.380],[355.790,264.030],[341.390,232.500]]
         }
       ],
       "color": "#ffffff",
-      "pos": "392.5,358.81 375.16,328.77 340.73,269.14 323.43,239.18"
+      "pos": "399.55,359.85 385.17,328.38 355.79,264.03 341.39,232.5"
     },
     {
       "_gvid": 6,
       "tail": 9,
-      "head": 32,
+      "head": 33,
       "_draw_": 
       [
         {
@@ -1280,16 +1313,16 @@
         },
         {
           "op": "b",
-          "points": [[410.160,358.740],[422.810,326.510],[448.960,259.880],[461.610,227.660]]
+          "points": [[416.120,359.850],[430.500,328.380],[459.890,264.030],[474.290,232.500]]
         }
       ],
       "color": "#ffffff",
-      "pos": "410.16,358.74 422.81,326.51 448.96,259.88 461.61,227.66"
+      "pos": "416.12,359.85 430.5,328.38 459.89,264.03 474.29,232.5"
     },
     {
       "_gvid": 7,
       "tail": 9,
-      "head": 35,
+      "head": 36,
       "_draw_": 
       [
         {
@@ -1299,16 +1332,16 @@
         },
         {
           "op": "b",
-          "points": [[429.590,358.870],[456.580,340.470],[498.120,312.140],[525.110,293.740]]
+          "points": [[435.960,359.920],[463.080,342.500],[503.880,316.280],[531.030,298.830]]
         }
       ],
       "color": "#ffffff",
-      "pos": "429.59,358.87 456.58,340.47 498.12,312.14 525.11,293.74"
+      "pos": "435.96,359.92 463.08,342.5 503.88,316.28 531.03,298.83"
     },
     {
       "_gvid": 8,
       "tail": 9,
-      "head": 38,
+      "head": 39,
       "_draw_": 
       [
         {
@@ -1318,11 +1351,11 @@
         },
         {
           "op": "b",
-          "points": [[491.210,363.700],[496.280,362.930],[501.360,362.170],[506.370,361.410]]
+          "points": [[491.960,365.900],[498.630,364.950],[505.340,363.980],[511.930,363.030]]
         }
       ],
       "color": "#ffffff",
-      "pos": "491.21,363.7 496.28,362.93 501.36,362.17 506.37,361.41"
+      "pos": "491.96,365.9 498.63,364.95 505.34,363.98 511.93,363.03"
     },
     {
       "_gvid": 9,
@@ -1337,11 +1370,11 @@
         },
         {
           "op": "b",
-          "points": [[602.540,450.380],[632.130,446.650],[673.810,441.390],[706.710,437.240]]
+          "points": [[609.620,448.120],[639.000,444.530],[679.970,439.530],[712.340,435.570]]
         }
       ],
       "color": "#ffffff",
-      "pos": "602.54,450.38 632.13,446.65 673.81,441.39 706.71,437.24"
+      "pos": "609.62,448.12 639,444.53 679.97,439.53 712.34,435.57"
     },
     {
       "_gvid": 10,
@@ -1356,11 +1389,11 @@
         },
         {
           "op": "b",
-          "points": [[602.380,473.010],[628.560,485.620],[663.480,502.440],[689.750,515.090]]
+          "points": [[609.960,470.310],[635.760,482.090],[669.680,497.580],[695.730,509.480]]
         }
       ],
       "color": "#ffffff",
-      "pos": "602.38,473.01 628.56,485.62 663.48,502.44 689.75,515.09"
+      "pos": "609.96,470.31 635.76,482.09 669.68,497.58 695.73,509.48"
     },
     {
       "_gvid": 11,
@@ -1375,11 +1408,11 @@
         },
         {
           "op": "b",
-          "points": [[576.250,473.260],[595.820,505.330],[636.270,571.650],[655.830,603.710]]
+          "points": [[583.790,470.930],[604.590,501.840],[646.680,564.380],[667.570,595.420]]
         }
       ],
       "color": "#ffffff",
-      "pos": "576.25,473.26 595.82,505.33 636.27,571.65 655.83,603.71"
+      "pos": "583.79,470.93 604.59,501.84 646.68,564.38 667.57,595.42"
     },
     {
       "_gvid": 12,
@@ -1394,11 +1427,11 @@
         },
         {
           "op": "b",
-          "points": [[483.230,562.820],[505.200,590.550],[546.740,642.990],[568.650,670.650]]
+          "points": [[498.280,559.920],[521.250,586.580],[563.820,636.000],[586.790,662.660]]
         }
       ],
       "color": "#ffffff",
-      "pos": "483.23,562.82 505.2,590.55 546.74,642.99 568.65,670.65"
+      "pos": "498.28,559.92 521.25,586.58 563.82,636 586.79,662.66"
     },
     {
       "_gvid": 13,
@@ -1413,11 +1446,11 @@
         },
         {
           "op": "b",
-          "points": [[470.190,562.810],[472.940,597.970],[478.940,674.680],[481.690,709.780]]
+          "points": [[485.260,559.820],[490.370,594.640],[501.520,670.640],[506.620,705.410]]
         }
       ],
       "color": "#ffffff",
-      "pos": "470.19,562.81 472.94,597.97 478.94,674.68 481.69,709.78"
+      "pos": "485.26,559.82 490.37,594.64 501.52,670.64 506.62,705.41"
     },
     {
       "_gvid": 14,
@@ -1432,11 +1465,11 @@
         },
         {
           "op": "b",
-          "points": [[388.180,574.690],[385.610,609.090],[380.050,683.300],[377.460,717.740]]
+          "points": [[407.840,576.250],[407.840,610.840],[407.840,685.550],[407.840,719.970]]
         }
       ],
       "color": "#ffffff",
-      "pos": "388.18,574.69 385.61,609.09 380.05,683.3 377.46,717.74"
+      "pos": "407.84,576.25 407.84,610.84 407.84,685.55 407.84,719.97"
     },
     {
       "_gvid": 15,
@@ -1451,11 +1484,11 @@
         },
         {
           "op": "b",
-          "points": [[288.960,536.010],[285.270,573.150],[276.940,657.030],[273.270,694.010]]
+          "points": [[310.130,547.680],[309.350,584.740],[307.580,668.450],[306.790,705.360]]
         }
       ],
       "color": "#ffffff",
-      "pos": "288.96,536.01 285.27,573.15 276.94,657.03 273.27,694.01"
+      "pos": "310.13,547.68 309.35,584.74 307.58,668.45 306.79,705.36"
     },
     {
       "_gvid": 16,
@@ -1470,11 +1503,11 @@
         },
         {
           "op": "b",
-          "points": [[276.330,535.830],[254.780,562.850],[214.450,613.430],[192.930,640.410]]
+          "points": [[298.780,547.690],[280.080,576.800],[243.720,633.380],[224.990,662.520]]
         }
       ],
       "color": "#ffffff",
-      "pos": "276.33,535.83 254.78,562.85 214.45,613.43 192.93,640.41"
+      "pos": "298.78,547.69 280.08,576.8 243.72,633.38 224.99,662.52"
     },
     {
       "_gvid": 17,
@@ -1489,11 +1522,11 @@
         },
         {
           "op": "b",
-          "points": [[239.180,535.010],[214.350,543.330],[184.580,553.310],[159.450,561.730]]
+          "points": [[273.030,547.520],[243.550,561.740],[202.660,581.470],[173.190,595.690]]
         }
       ],
       "color": "#ffffff",
-      "pos": "239.18,535.01 214.35,543.33 184.58,553.31 159.45,561.73"
+      "pos": "273.03,547.52 243.55,561.74 202.66,581.47 173.19,595.69"
     },
     {
       "_gvid": 18,
@@ -1508,11 +1541,11 @@
         },
         {
           "op": "b",
-          "points": [[195.180,394.990],[165.020,414.510],[117.160,445.470],[86.950,465.020]]
+          "points": [[210.050,396.040],[181.700,424.780],[126.600,480.660],[98.220,509.450]]
         }
       ],
       "color": "#ffffff",
-      "pos": "195.18,394.99 165.02,414.51 117.16,445.47 86.952,465.02"
+      "pos": "210.05,396.04 181.7,424.78 126.6,480.66 98.219,509.45"
     },
     {
       "_gvid": 19,
@@ -1527,11 +1560,11 @@
         },
         {
           "op": "b",
-          "points": [[169.480,376.990],[142.850,376.990],[111.080,376.990],[86.050,376.990]]
+          "points": [[175.410,393.230],[149.320,400.810],[118.200,409.850],[93.670,416.980]]
         }
       ],
       "color": "#ffffff",
-      "pos": "169.48,376.99 142.85,376.99 111.08,376.99 86.051,376.99"
+      "pos": "175.41,393.23 149.32,400.81 118.2,409.85 93.675,416.98"
     },
     {
       "_gvid": 20,
@@ -1546,16 +1579,16 @@
         },
         {
           "op": "b",
-          "points": [[195.180,358.990],[165.020,339.480],[117.160,308.520],[86.950,288.970]]
+          "points": [[175.410,362.770],[152.560,356.130],[125.870,348.370],[103.120,341.760]]
         }
       ],
       "color": "#ffffff",
-      "pos": "195.18,358.99 165.02,339.48 117.16,308.52 86.952,288.97"
+      "pos": "175.41,362.77 152.56,356.13 125.87,348.37 103.12,341.76"
     },
     {
       "_gvid": 21,
-      "tail": 27,
-      "head": 28,
+      "tail": 23,
+      "head": 27,
       "_draw_": 
       [
         {
@@ -1565,15 +1598,15 @@
         },
         {
           "op": "b",
-          "points": [[275.910,212.720],[240.250,204.660],[186.370,192.470],[148.780,183.970]]
+          "points": [[210.050,359.960],[181.700,331.220],[126.600,275.340],[98.220,246.550]]
         }
       ],
       "color": "#ffffff",
-      "pos": "275.91,212.72 240.25,204.66 186.37,192.47 148.78,183.97"
+      "pos": "210.05,359.96 181.7,331.22 126.6,275.34 98.219,246.55"
     },
     {
       "_gvid": 22,
-      "tail": 27,
+      "tail": 28,
       "head": 29,
       "_draw_": 
       [
@@ -1584,15 +1617,15 @@
         },
         {
           "op": "b",
-          "points": [[293.450,202.850],[267.960,179.040],[223.620,137.630],[198.120,113.820]]
+          "points": [[295.950,200.720],[262.580,188.540],[213.550,170.640],[178.540,157.860]]
         }
       ],
       "color": "#ffffff",
-      "pos": "293.45,202.85 267.96,179.04 223.62,137.63 198.12,113.82"
+      "pos": "295.95,200.72 262.58,188.54 213.55,170.64 178.54,157.86"
     },
     {
       "_gvid": 23,
-      "tail": 27,
+      "tail": 28,
       "head": 30,
       "_draw_": 
       [
@@ -1603,15 +1636,15 @@
         },
         {
           "op": "b",
-          "points": [[308.790,202.940],[300.830,168.580],[283.670,94.490],[275.700,60.100]]
+          "points": [[317.390,196.080],[294.420,169.420],[251.850,120.000],[228.880,93.340]]
         }
       ],
       "color": "#ffffff",
-      "pos": "308.79,202.94 300.83,168.58 283.67,94.488 275.7,60.099"
+      "pos": "317.39,196.08 294.42,169.42 251.85,120 228.88,93.34"
     },
     {
       "_gvid": 24,
-      "tail": 27,
+      "tail": 28,
       "head": 31,
       "_draw_": 
       [
@@ -1622,16 +1655,16 @@
         },
         {
           "op": "b",
-          "points": [[318.600,203.080],[330.540,164.640],[358.410,74.940],[370.420,36.280]]
+          "points": [[330.410,196.180],[325.300,161.360],[314.150,85.360],[309.050,50.590]]
         }
       ],
       "color": "#ffffff",
-      "pos": "318.6,203.08 330.54,164.64 358.41,74.945 370.42,36.276"
+      "pos": "330.41,196.18 325.3,161.36 314.15,85.362 309.05,50.594"
     },
     {
       "_gvid": 25,
-      "tail": 32,
-      "head": 33,
+      "tail": 28,
+      "head": 32,
       "_draw_": 
       [
         {
@@ -1641,15 +1674,15 @@
         },
         {
           "op": "b",
-          "points": [[470.190,191.180],[472.940,156.020],[478.940,79.300],[481.690,44.200]]
+          "points": [[339.960,196.150],[354.210,158.760],[386.720,73.420],[400.950,36.070]]
         }
       ],
       "color": "#ffffff",
-      "pos": "470.19,191.18 472.94,156.02 478.94,79.302 481.69,44.203"
+      "pos": "339.96,196.15 354.21,158.76 386.72,73.421 400.95,36.069"
     },
     {
       "_gvid": 26,
-      "tail": 32,
+      "tail": 33,
       "head": 34,
       "_draw_": 
       [
@@ -1660,16 +1693,16 @@
         },
         {
           "op": "b",
-          "points": [[483.230,191.170],[505.200,163.430],[546.740,110.990],[568.650,83.340]]
+          "points": [[485.260,196.180],[490.370,161.360],[501.520,85.360],[506.620,50.590]]
         }
       ],
       "color": "#ffffff",
-      "pos": "483.23,191.17 505.2,163.43 546.74,110.99 568.65,83.34"
+      "pos": "485.26,196.18 490.37,161.36 501.52,85.362 506.62,50.594"
     },
     {
       "_gvid": 27,
-      "tail": 35,
-      "head": 36,
+      "tail": 33,
+      "head": 35,
       "_draw_": 
       [
         {
@@ -1679,15 +1712,15 @@
         },
         {
           "op": "b",
-          "points": [[566.310,257.430],[588.460,229.830],[630.350,177.660],[652.430,150.150]]
+          "points": [[498.280,196.080],[521.250,169.420],[563.820,120.000],[586.790,93.340]]
         }
       ],
       "color": "#ffffff",
-      "pos": "566.31,257.43 588.46,229.83 630.35,177.66 652.43,150.15"
+      "pos": "498.28,196.08 521.25,169.42 563.82,120 586.79,93.34"
     },
     {
       "_gvid": 28,
-      "tail": 35,
+      "tail": 36,
       "head": 37,
       "_draw_": 
       [
@@ -1698,16 +1731,16 @@
         },
         {
           "op": "b",
-          "points": [[599.250,260.770],[626.270,252.330],[659.790,241.880],[685.760,233.770]]
+          "points": [[575.030,262.590],[598.150,236.060],[641.010,186.890],[664.130,160.350]]
         }
       ],
       "color": "#ffffff",
-      "pos": "599.25,260.77 626.27,252.33 659.79,241.88 685.76,233.77"
+      "pos": "575.03,262.59 598.15,236.06 641.01,186.89 664.13,160.35"
     },
     {
       "_gvid": 29,
-      "tail": 38,
-      "head": 39,
+      "tail": 36,
+      "head": 38,
       "_draw_": 
       [
         {
@@ -1717,11 +1750,30 @@
         },
         {
           "op": "b",
-          "points": [[655.700,338.910],[675.490,335.920],[696.240,332.790],[713.910,330.130]]
+          "points": [[606.440,266.690],[633.940,258.530],[668.270,248.340],[694.580,240.530]]
         }
       ],
       "color": "#ffffff",
-      "pos": "655.7,338.91 675.49,335.92 696.24,332.79 713.91,330.13"
+      "pos": "606.44,266.69 633.94,258.53 668.27,248.34 694.58,240.53"
+    },
+    {
+      "_gvid": 30,
+      "tail": 39,
+      "head": 40,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#ffffff"
+        },
+        {
+          "op": "b",
+          "points": [[660.010,341.740],[680.090,338.860],[701.220,335.820],[719.160,333.240]]
+        }
+      ],
+      "color": "#ffffff",
+      "pos": "660.01,341.74 680.09,338.86 701.22,335.82 719.16,333.24"
     }
   ]
 }
