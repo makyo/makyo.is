@@ -61,6 +61,14 @@ graph plural {
         labelloc="b"
         label="Dry Grass"
     ];
+    truename [
+        href="#true-name"
+        image="thumbs/true-name.png"
+        height="2.36"
+        imagepos="tc"
+        labelloc="b"
+        label="True Name"
+    ];
 
     system -- slow;
     system -- beholden;
@@ -69,4 +77,5 @@ graph plural {
     system -- rye;
     system -- whatright;
     system -- drygrass;
+    system -- truename;
 }
