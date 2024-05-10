@@ -3,7 +3,7 @@ graph is {
     edge[color="#ffffff"]
     graph[bgcolor="#222222",label="",margin="0",rankdir="LR",ranksep=2.5]
 
-    copula [label="Madison Scott-Clary is...",fontcolor="#cc99ff",href="https://drab-makyo.com"]
+    copula [label="Madison Rye Progress is...",fontcolor="#cc99ff",href="https://drab-makyo.com"]
 
     writing [label="Writing..."]
     /* writing_anything [label="Anything",fontcolor="#cc99ff",href="https://writing.drab-makyo.com"] 
