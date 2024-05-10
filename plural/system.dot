@@ -1,7 +1,7 @@
 graph plural {
     node[shape="none" fontcolor="#ffffff" color="#ffffff" fontname="Ubuntu"];
     edge[color="#ffffff" dir="none"];
-    graph[bgcolor="#222222" label="" margin="0" rankdir="LR" ranksep="3" compound="true" labelloc="b"];
+    graph[bgcolor="#222222" label="" margin="0" rankdir="LR" ranksep="4" compound="true" labelloc="b"];
 
     system [label="Skunks&" fontcolor="#cc99ff" labelloc="c"];
 
@@ -69,6 +69,14 @@ graph plural {
         labelloc="b"
         label="True Name"
     ];
+    may [
+        href="#may"
+        image="thumbs/may.png"
+        height="2.36"
+        imagepos="tc"
+        labelloc="b"
+        label="May Then My Name"
+    ];
 
     system -- slow;
     system -- beholden;
@@ -78,4 +86,5 @@ graph plural {
     system -- whatright;
     system -- drygrass;
     system -- truename;
+    system -- may;
 }
