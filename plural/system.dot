@@ -1,7 +1,7 @@
 graph plural {
     node[shape="none" fontcolor="#ffffff" color="#ffffff" fontname="Ubuntu"];
     edge[color="#ffffff" dir="none"];
-    graph[bgcolor="#222222" label="" margin="0" rankdir="LR" ranksep="4" compound="true" labelloc="b"];
+    graph[bgcolor="#222222" label="" margin="0" rankdir="LR" ranksep="4.6" compound="true" labelloc="b"];
 
     system [label="Skunks&" fontcolor="#cc99ff" labelloc="c"];
 
@@ -77,6 +77,38 @@ graph plural {
         labelloc="b"
         label="May Then My Name"
     ];
+    soot [
+        href="#soot"
+        image="thumbs/soot.png"
+        height="2.36"
+        imagepos="tc"
+        labelloc="b"
+        label="Soot (subsystem)"
+    ];
+    soot_soot [
+        href="#soot-soot"
+        image="thumbs/soot-soot.png"
+        height="2.36"
+        imagepos="tc"
+        labelloc="b"
+        label="Soot"
+    ];
+    soot_abby [
+        href="#soot"
+        image="thumbs/soot-abby.png"
+        height="2.36"
+        imagepos="tc"
+        labelloc="b"
+        label="Abigail"
+    ];
+    zacharias [
+        href="#zacharias"
+        image="thumbs/zacharias.png"
+        height="2.36"
+        imagepos="tc"
+        labelloc="b"
+        label="Zacharias"
+    ];
 
     system -- slow;
     system -- beholden;
@@ -87,4 +119,8 @@ graph plural {
     system -- drygrass;
     system -- truename;
     system -- may;
+    system --soot;
+    soot -- soot_soot;
+    soot -- soot_abby;
+    system -- zacharias;
 }
