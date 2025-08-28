@@ -61,13 +61,13 @@ graph plural {
         labelloc="b"
         label="Dry Grass"
     ];
-    truename [
-        href="#true-name"
-        image="thumbs/true-name.png"
+    fromwhence [
+        href="#from-whence"
+        image="thumbs/from-whence.png"
         height="2.36"
         imagepos="tc"
         labelloc="b"
-        label="True Name"
+        label="From Whence"
     ];
     may [
         href="#may"
@@ -117,7 +117,7 @@ graph plural {
     system -- rye;
     system -- whatright;
     system -- drygrass;
-    system -- truename;
+    system -- fromwhence;
     system -- may;
     system --soot;
     soot -- soot_soot;
